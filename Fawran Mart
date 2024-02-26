@@ -1,0 +1,793 @@
+<div style="width: 1440px; height: 3571px; position: relative; background: #FFF8F8">
+  <div style="width: 1440px; height: 86px; left: 0px; top: 0px; position: absolute; background: white"></div>
+  <div style="width: 665px; height: 40px; left: 387px; top: 23px; position: absolute">
+    <div style="width: 145px; height: 40px; left: 420px; top: 0px; position: absolute">
+      <div style="width: 145px; height: 40px; left: 0px; top: 0px; position: absolute; background: white; border: 1px #881115 solid"></div>
+      <div style="width: 130px; left: 10px; top: 11px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">All category</div>
+      <div style="width: 24px; height: 24px; padding-left: 6px; padding-right: 6px; padding-top: 8.30px; padding-bottom: 8.30px; left: 114px; top: 8px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 12px; height: 7.41px; background: #8B96A5"></div>
+      </div>
+    </div>
+    <div style="width: 421px; height: 40px; left: 0px; top: 0px; position: absolute">
+      <div style="width: 421px; height: 40px; left: 0px; top: 0px; position: absolute; background: white; border: 1px #881115 solid"></div>
+      <div style="width: 406px; left: 10px; top: 11px; position: absolute; color: #8B96A5; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Search</div>
+    </div>
+    <div style="width: 100px; height: 40px; left: 565px; top: 0px; position: absolute">
+      <div style="width: 100px; height: 40px; left: 0px; top: 0px; position: absolute; background: linear-gradient(180deg, #881115 0%, #761D34 100%, #652752 100%, #881115 100%)"></div>
+      <div style="width: 80px; left: 10px; top: 11px; position: absolute; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="text-align: center; color: white; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">Search</div>
+      </div>
+    </div>
+  </div>
+  <img style="width: 560px; height: 206px; left: -49px; top: -68px; position: absolute" src="https://via.placeholder.com/560x206" />
+  <div style="width: 228px; height: 41px; left: 1080px; top: 25px; position: absolute">
+    <div style="width: 44px; height: 41px; left: 184px; top: 0px; position: absolute">
+      <img style="width: 21.01px; height: 21px; left: 12px; top: 0px; position: absolute" src="https://via.placeholder.com/21x21" />
+      <div style="left: 0px; top: 26px; position: absolute; text-align: center; color: #8B96A5; font-size: 12px; font-family: Inter; font-weight: 400; word-wrap: break-word">My cart</div>
+    </div>
+    <div style="width: 39px; height: 40px; left: 127px; top: 1px; position: absolute">
+      <div style="width: 20.01px; height: 17.65px; left: 10px; top: 0px; position: absolute; background: #8B96A5"></div>
+      <div style="left: 0px; top: 25px; position: absolute; text-align: center; color: #8B96A5; font-size: 12px; font-family: Inter; font-weight: 400; word-wrap: break-word">Orders</div>
+    </div>
+    <div style="width: 52px; height: 40px; left: 60px; top: 1px; position: absolute">
+      <div style="left: 0px; top: 25px; position: absolute; text-align: center; color: #8B96A5; font-size: 12px; font-family: Inter; font-weight: 400; word-wrap: break-word">Message</div>
+      <img style="width: 20px; height: 20px; left: 16px; top: 0px; position: absolute" src="https://via.placeholder.com/20x20" />
+    </div>
+    <div style="width: 37px; height: 41px; left: 0px; top: 0px; position: absolute">
+      <div style="left: 0px; top: 26px; position: absolute; text-align: center; color: #8B96A5; font-size: 12px; font-family: Inter; font-weight: 400; word-wrap: break-word">Profile</div>
+      <img style="width: 20px; height: 19px; left: 8px; top: 0px; position: absolute" src="https://via.placeholder.com/20x19" />
+    </div>
+  </div>
+  <div style="width: 1440px; height: 56px; left: -0px; top: 86px; position: absolute; background: white; border: 1px #E0E0E0 solid"></div>
+  <div style="width: 1182px; height: 24px; left: 129px; top: 102px; position: absolute">
+    <div style="width: 115px; height: 24px; left: 1067px; top: 0px; position: absolute">
+      <div style="left: 0px; top: 2px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 22px; word-wrap: break-word">Ship to</div>
+      <div style="width: 22px; height: 16px; left: 60px; top: 5px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <img style="width: 22px; height: 16px" src="https://via.placeholder.com/22x16" />
+      </div>
+      <div style="width: 24px; height: 24px; padding-left: 6px; padding-right: 6px; padding-top: 8.30px; padding-bottom: 8.30px; left: 91px; top: 0px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 12px; height: 7.41px; background: #8B96A5"></div>
+      </div>
+    </div>
+    <div style="width: 124px; height: 24px; left: 911px; top: 0px; position: absolute">
+      <div style="left: 0px; top: 2px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 22px; word-wrap: break-word">English, USD</div>
+      <div style="width: 24px; height: 24px; padding-left: 6px; padding-right: 6px; padding-top: 8.30px; padding-bottom: 8.30px; left: 100px; top: 0px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 12px; height: 7.41px; background: #8B96A5"></div>
+      </div>
+    </div>
+    <div style="width: 620px; height: 24px; left: 0px; top: 0px; position: absolute">
+      <div style="width: 61px; height: 24px; left: 559px; top: 0px; position: absolute">
+        <div style="width: 24px; height: 24px; padding-left: 6px; padding-right: 6px; padding-top: 8.30px; padding-bottom: 8.30px; left: 37px; top: 0px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+          <div style="width: 12px; height: 7.41px; background: #8B96A5"></div>
+        </div>
+        <div style="left: 0px; top: 1px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 22px; word-wrap: break-word">Help</div>
+      </div>
+      <div style="left: 450px; top: 1px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 22px; word-wrap: break-word">Menu item</div>
+      <div style="left: 359px; top: 1px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 22px; word-wrap: break-word">Projects</div>
+      <div style="left: 252px; top: 1px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 22px; word-wrap: break-word">Gift boxes</div>
+      <div style="left: 147px; top: 1px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 22px; word-wrap: break-word">Hot offers</div>
+      <div style="left: 30px; top: 1px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 22px; word-wrap: break-word">All category</div>
+      <div style="width: 24px; height: 24px; padding-left: 3px; padding-right: 3px; padding-top: 6px; padding-bottom: 6px; left: 0px; top: 0px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 18px; height: 12px; background: #1C1C1C"></div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 1180px; height: 400px; left: 130px; top: 162px; position: absolute; background: white"></div>
+  <div style="width: 665px; height: 360px; left: 419px; top: 182px; position: absolute">
+    <div style="width: 665px; height: 360px; left: 0px; top: 0px; position: absolute">
+      <div style="width: 665px; height: 360px; left: 0px; top: 0px; position: absolute; background: #0D6EFD"></div>
+      <img style="width: 664px; height: 373px; left: 2px; top: -3px; position: absolute" src="https://via.placeholder.com/664x373" />
+    </div>
+    <div style="width: 253px; height: 130px; left: 101px; top: 51px; position: absolute">
+      <div style="width: 253px; height: 73px; left: 0px; top: 0px; position: absolute">
+        <div style="left: 1px; top: 0px; position: absolute; color: #1C1C1C; font-size: 28px; font-family: Inter; font-weight: 400; word-wrap: break-word">Latest trending</div>
+        <div style="left: 0px; top: 34px; position: absolute; color: #1C1C1C; font-size: 32px; font-family: Inter; font-weight: 700; word-wrap: break-word">Electronic items</div>
+      </div>
+      <div style="width: 119px; height: 40px; padding-left: 16px; padding-right: 16px; left: 1px; top: 90px; position: absolute; background: #FFF8F8; box-shadow: 0px 1px 2px rgba(56.31, 56.31, 56.31, 0.08); border-radius: 6px; border: 1px white solid; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+          <div style="text-align: center; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">Learn more</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 250px; height: 360px; left: 158px; top: 182px; position: absolute">
+    <div style="width: 250px; height: 40px; left: 0px; top: 40px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+      <div style="width: 250px; height: 40px; opacity: 0.10; border-radius: 4px"></div>
+      <div style="width: 230px; color: #505050; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Clothes and wear</div>
+    </div>
+    <div style="width: 250px; height: 40px; left: 0px; top: 160px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+      <div style="width: 250px; height: 40px; opacity: 0.10; border-radius: 4px"></div>
+      <div style="width: 230px; color: #505050; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Tools, equipments</div>
+    </div>
+    <div style="width: 250px; height: 40px; left: 0px; top: 80px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+      <div style="width: 250px; height: 40px; opacity: 0.10; border-radius: 4px"></div>
+      <div style="width: 230px; color: #505050; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Home interiors</div>
+    </div>
+    <div style="width: 250px; height: 40px; left: 0px; top: 200px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+      <div style="width: 250px; height: 40px; opacity: 0.10; border-radius: 4px"></div>
+      <div style="width: 230px; color: #505050; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Sports and outdoor</div>
+    </div>
+    <div style="width: 250px; height: 40px; left: 0px; top: 280px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+      <div style="width: 250px; height: 40px; opacity: 0.10; border-radius: 4px"></div>
+      <div style="width: 230px; color: #505050; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Machinery tools</div>
+    </div>
+    <div style="width: 250px; height: 40px; left: 0px; top: 320px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+      <div style="width: 250px; height: 40px; opacity: 0.10; border-radius: 4px"></div>
+      <div style="width: 230px; color: #505050; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">More category</div>
+    </div>
+    <div style="width: 250px; height: 40px; left: 0px; top: 120px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+      <div style="width: 250px; height: 40px; opacity: 0.10; border-radius: 4px"></div>
+      <div style="width: 230px; color: #505050; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Computer and tech</div>
+    </div>
+    <div style="width: 250px; height: 40px; left: 0px; top: 240px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+      <div style="width: 250px; height: 40px; opacity: 0.10; border-radius: 4px"></div>
+      <div style="width: 230px; color: #505050; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Animal and pets</div>
+    </div>
+    <div style="width: 250px; height: 40px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+      <div style="width: 250px; height: 40px; background: #FFF8F8; border-radius: 6px"></div>
+      <div style="width: 230px; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">Automobiles</div>
+    </div>
+  </div>
+  <div style="width: 200px; height: 150px; left: 1104px; top: 182px; position: absolute; background: #FFF8F8; border-radius: 6px"></div>
+  <div style="left: 1167px; top: 199px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Hi, Mina    let’s get stated</div>
+  <div style="width: 180px; height: 30px; padding-left: 10px; padding-right: 10px; left: 1114px; top: 253px; position: absolute; background: linear-gradient(180deg, #881115 0%, #881115 100%); border-radius: 6px; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+    <div style="justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+      <div style="text-align: center; color: white; font-size: 13px; font-family: Inter; font-weight: 500; word-wrap: break-word">My Cart</div>
+    </div>
+  </div>
+  <div style="width: 180px; height: 30px; padding-left: 10px; padding-right: 10px; left: 1114px; top: 290px; position: absolute; background: white; border-radius: 6px; border: 1px #DEE2E7 solid; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+    <div style="justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+      <div style="text-align: center; color: #881115; font-size: 13px; font-family: Inter; font-weight: 500; word-wrap: break-word">Sign Out</div>
+    </div>
+  </div>
+  <div style="width: 200px; height: 95px; left: 1104px; top: 342px; position: absolute">
+    <div style="width: 200px; height: 95px; left: 0px; top: 0px; position: absolute; background: #F38332; border-radius: 6px"></div>
+    <div style="width: 144px; left: 16px; top: 16px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Get US $10 off with a new supplier</div>
+  </div>
+  <div style="width: 200px; height: 95px; left: 1104px; top: 447px; position: absolute">
+    <div style="width: 200px; height: 95px; left: 0px; top: 0px; position: absolute; background: #55BDC3; border-radius: 6px"></div>
+    <div style="width: 140px; left: 16px; top: 16px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Send quotes with supplier preferences</div>
+  </div>
+  <img style="width: 44px; height: 44px; left: 1114px; top: 196px; position: absolute; border-radius: 9999px" src="https://via.placeholder.com/44x44" />
+  <div style="width: 1180px; height: 240px; left: 130px; top: 592px; position: absolute; background: white"></div>
+  <div style="width: 179px; height: 235px; left: 1136px; top: 582px; position: absolute">
+    <div style="width: 179px; height: 235px; left: 0px; top: 0px; position: absolute; background: white"></div>
+    <div style="width: 140px; height: 140px; padding: 7.47px; left: 20px; top: 8px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+      <img style="width: 125.07px; height: 125.07px" src="https://via.placeholder.com/125x125" />
+    </div>
+    <div style="left: 37.36px; top: 159px; position: absolute">
+      <div style="width: 61px; height: 28px; padding-top: 3px; padding-bottom: 4px; padding-left: 13px; padding-right: 13px; left: 19.64px; top: 31px; position: absolute; background: #FFE3E3; border-radius: 29px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="text-align: center; color: #EB001B; font-size: 14px; font-family: Inter; font-weight: 500; word-wrap: break-word">-25%</div>
+      </div>
+      <div style="left: 0px; top: 0px; position: absolute; text-align: center; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Smartphones</div>
+    </div>
+    <div style="width: 235px; height: 0px; left: 0px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+  </div>
+  <div style="width: 179px; height: 235px; left: 957px; top: 582px; position: absolute">
+    <div style="width: 179px; height: 235px; left: 0px; top: 0px; position: absolute; background: white"></div>
+    <div style="width: 140px; height: 140px; padding-top: 6.22px; padding-bottom: 5.60px; padding-left: 13.69px; padding-right: 13.69px; left: 20px; top: 8px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+      <img style="width: 112.62px; height: 128.18px" src="https://via.placeholder.com/113x128" />
+    </div>
+    <div style="left: 41.36px; top: 159px; position: absolute">
+      <div style="width: 61px; height: 28px; padding-top: 3px; padding-bottom: 4px; padding-left: 13px; padding-right: 13px; left: 15.64px; top: 31px; position: absolute; background: #FFE3E3; border-radius: 29px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="text-align: center; color: #EB001B; font-size: 14px; font-family: Inter; font-weight: 500; word-wrap: break-word">-25%</div>
+      </div>
+      <div style="left: 0px; top: 0px; position: absolute; text-align: center; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Headphones</div>
+    </div>
+    <div style="width: 235px; height: 0px; left: 0px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+  </div>
+  <div style="width: 179px; height: 235px; left: 778px; top: 582px; position: absolute">
+    <div style="width: 179px; height: 235px; left: 0px; top: 0px; position: absolute; background: white"></div>
+    <div style="width: 140px; height: 140px; padding-top: 24.27px; padding-bottom: 24.27px; padding-left: 5.60px; padding-right: 4.98px; left: 20px; top: 8px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+      <img style="width: 129.42px; height: 91.47px" src="https://via.placeholder.com/129x91" />
+    </div>
+    <div style="left: 31.36px; top: 159px; position: absolute">
+      <div style="width: 62px; height: 28px; padding-top: 3px; padding-bottom: 4px; padding-left: 13px; padding-right: 13px; left: 25.64px; top: 31px; position: absolute; background: #FFE3E3; border-radius: 29px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="text-align: center; color: #EB001B; font-size: 14px; font-family: Inter; font-weight: 500; word-wrap: break-word">-40%</div>
+      </div>
+      <div style="left: 0px; top: 0px; position: absolute; text-align: center; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">GoPro cameras</div>
+    </div>
+    <div style="width: 235px; height: 0px; left: 0px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+  </div>
+  <div style="width: 179px; height: 235px; left: 599px; top: 582px; position: absolute">
+    <div style="width: 179px; height: 235px; left: 0px; top: 0px; position: absolute; background: white"></div>
+    <div style="width: 140px; height: 140px; padding-top: 20.53px; padding-bottom: 19.91px; padding-left: 6.84px; padding-right: 6.84px; left: 20px; top: 8px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+      <img style="width: 126.31px; height: 99.56px" src="https://via.placeholder.com/126x100" />
+    </div>
+    <div style="left: 57px; top: 159px; position: absolute">
+      <div style="width: 59px; height: 28px; padding-top: 3px; padding-bottom: 4px; padding-left: 13px; padding-right: 13px; left: 0px; top: 31px; position: absolute; background: #FFE3E3; border-radius: 29px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="text-align: center; color: #EB001B; font-size: 14px; font-family: Inter; font-weight: 500; word-wrap: break-word">-15%</div>
+      </div>
+      <div style="left: 1.36px; top: 0px; position: absolute; text-align: center; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Laptops</div>
+    </div>
+    <div style="width: 235px; height: 0px; left: 0px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+  </div>
+  <div style="width: 179px; height: 235px; left: 420px; top: 582px; position: absolute">
+    <div style="width: 179px; height: 235px; left: 0px; top: 0px; position: absolute; background: white"></div>
+    <div style="width: 140px; height: 140px; padding-left: 19.29px; padding-right: 19.29px; padding-top: 9.33px; padding-bottom: 9.33px; left: 20px; top: 8px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+      <img style="width: 101.42px; height: 121.33px" src="https://via.placeholder.com/101x121" />
+    </div>
+    <div style="left: 32.36px; top: 159px; position: absolute">
+      <div style="width: 61px; height: 28px; padding-top: 3px; padding-bottom: 4px; padding-left: 13px; padding-right: 13px; left: 24.64px; top: 31px; position: absolute; background: #FFE3E3; border-radius: 29px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="text-align: center; color: #EB001B; font-size: 14px; font-family: Inter; font-weight: 500; word-wrap: break-word">-25%</div>
+      </div>
+      <div style="left: 0px; top: 0px; position: absolute; text-align: center; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Smart watches</div>
+    </div>
+    <div style="width: 235px; height: 0px; left: 0px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+  </div>
+  <div style="width: 198px; height: 113px; left: 159px; top: 599px; position: absolute">
+    <div style="width: 198px; height: 50px; left: 0px; top: 63px; position: absolute">
+      <div style="width: 45px; height: 50px; left: 0px; top: 0px; position: absolute">
+        <div style="width: 45px; height: 50px; left: 0px; top: 0px; position: absolute; background: #606060; border-radius: 4px"></div>
+        <div style="left: 11px; top: 8px; position: absolute; text-align: center; color: white; font-size: 16px; font-family: Inter; font-weight: 700; word-wrap: break-word">03</div>
+        <div style="left: 8px; top: 27px; position: absolute; text-align: center; color: white; font-size: 12px; font-family: Inter; font-weight: 400; word-wrap: break-word">Days</div>
+      </div>
+      <div style="width: 45px; height: 50px; left: 51px; top: 0px; position: absolute">
+        <div style="width: 45px; height: 50px; left: 0px; top: 0px; position: absolute; background: #606060; border-radius: 4px"></div>
+        <div style="left: 12px; top: 8px; position: absolute; text-align: center; color: white; font-size: 16px; font-family: Inter; font-weight: 700; word-wrap: break-word">23</div>
+        <div style="left: 8px; top: 27px; position: absolute; text-align: center; color: white; font-size: 12px; font-family: Inter; font-weight: 400; word-wrap: break-word">Hour</div>
+      </div>
+      <div style="width: 45px; height: 50px; left: 102px; top: 0px; position: absolute">
+        <div style="width: 45px; height: 50px; left: 0px; top: 0px; position: absolute; background: #606060; border-radius: 4px"></div>
+        <div style="left: 11px; top: 8px; position: absolute; text-align: center; color: white; font-size: 16px; font-family: Inter; font-weight: 700; word-wrap: break-word">33</div>
+        <div style="left: 12px; top: 27px; position: absolute; text-align: center; color: white; font-size: 12px; font-family: Inter; font-weight: 400; word-wrap: break-word">Min</div>
+      </div>
+      <div style="width: 45px; height: 50px; left: 153px; top: 0px; position: absolute">
+        <div style="width: 45px; height: 50px; left: 0px; top: 0px; position: absolute; background: #606060; border-radius: 4px"></div>
+        <div style="left: 12px; top: 8px; position: absolute; text-align: center; color: white; font-size: 16px; font-family: Inter; font-weight: 700; word-wrap: break-word">22</div>
+        <div style="left: 11px; top: 27px; position: absolute; text-align: center; color: white; font-size: 12px; font-family: Inter; font-weight: 400; word-wrap: break-word">Sec</div>
+      </div>
+    </div>
+    <div style="left: 0px; top: 26px; position: absolute; color: #8B96A5; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Hygiene equipments</div>
+    <div style="left: 0px; top: 0px; position: absolute; color: #1C1C1C; font-size: 20px; font-family: Inter; font-weight: 600; line-height: 28px; word-wrap: break-word">Deals and offers</div>
+  </div>
+  <div style="width: 1180px; height: 257px; left: 130px; top: 852px; position: absolute; background: white"></div>
+  <div style="width: 280px; height: 257px; left: 130px; top: 852px; position: absolute">
+    <div style="width: 280px; height: 257px; left: 0px; top: 0px; position: absolute; background: #FFE0B0"></div>
+    <div style="width: 280px; height: 257px; left: 0px; top: 0px; position: absolute">
+      <div style="width: 280px; height: 257px; left: 0px; top: 0px; position: absolute; background: white"></div>
+      <div style="width: 388px; height: 260px; left: 291px; top: 0px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; opacity: 0.80; background: linear-gradient(0deg, rgba(255, 231.52, 185.94, 0.40) 0%, rgba(255, 231.52, 185.94, 0.40) 100%)"></div>
+    </div>
+    <div style="width: 123px; height: 40px; padding-left: 16px; padding-right: 16px; left: 18px; top: 90px; position: absolute; background: #FFF8F8; box-shadow: 0px 1px 2px rgba(56.31, 56.31, 56.31, 0.08); border-radius: 6px; border: 1px #FFF8F8 solid; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div style="justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+        <div style="text-align: center; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">Source now</div>
+      </div>
+    </div>
+    <div style="width: 130px; left: 20px; top: 20px; position: absolute; color: #1C1C1C; font-size: 20px; font-family: Inter; font-weight: 600; line-height: 26px; word-wrap: break-word">Home and outdoor</div>
+  </div>
+  <div style="width: 223px; height: 127px; left: 1083px; top: 982px; position: absolute">
+    <div style="width: 223.86px; height: 127px; left: 0px; top: 0px; position: absolute; background: white"></div>
+    <div style="width: 82px; height: 82px; padding-top: 2.55px; padding-bottom: 4.37px; padding-left: 2.55px; padding-right: 4.37px; left: 140px; top: 42px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+      <img style="width: 75.08px; height: 75.08px" src="https://via.placeholder.com/75x75" />
+    </div>
+    <div style="width: 138px; left: 16px; top: 20px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Coffee maker</div>
+    <div style="width: 97.95px; left: 16px; top: 48px; position: absolute; color: #8B96A5; font-size: 13px; font-family: Inter; font-weight: 400; word-wrap: break-word">From      USD 10</div>
+    <div style="width: 127px; height: 0px; left: 0px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+    <div style="width: 221.96px; height: 0px; left: 223px; top: 126px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+  </div>
+  <div style="width: 224px; height: 127px; left: 858px; top: 982px; position: absolute">
+    <div style="width: 224.86px; height: 127px; left: 0px; top: 0px; position: absolute; background: white"></div>
+    <div style="width: 82.37px; height: 82px; left: 140.63px; top: 42px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+      <img style="width: 82.37px; height: 86.37px" src="https://via.placeholder.com/82x86" />
+    </div>
+    <div style="width: 138.62px; left: 16.07px; top: 20px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Home appliance</div>
+    <div style="width: 98.39px; left: 16.07px; top: 48px; position: absolute; color: #8B96A5; font-size: 13px; font-family: Inter; font-weight: 400; word-wrap: break-word">From      USD 19</div>
+    <div style="width: 127px; height: 0px; left: 0px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+    <div style="width: 222.95px; height: 0px; left: 224px; top: 126px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+  </div>
+  <div style="width: 224px; height: 127px; left: 633px; top: 982px; position: absolute">
+    <div style="width: 224.86px; height: 127px; left: 0px; top: 0px; position: absolute; background: white"></div>
+    <div style="width: 82.37px; height: 82px; padding-top: 6.56px; padding-bottom: 6.20px; padding-left: 2.20px; padding-right: 2.20px; left: 140.63px; top: 42px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+      <img style="width: 77.97px; height: 69.24px" src="https://via.placeholder.com/78x69" />
+    </div>
+    <div style="width: 138.62px; left: 16.07px; top: 20px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Blenders</div>
+    <div style="width: 98.39px; left: 16.07px; top: 48px; position: absolute; color: #8B96A5; font-size: 13px; font-family: Inter; font-weight: 400; word-wrap: break-word">From      USD 39</div>
+    <div style="width: 127px; height: 0px; left: 0px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+    <div style="width: 222.95px; height: 0px; left: 224px; top: 126px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+  </div>
+  <div style="width: 223px; height: 127px; left: 409px; top: 982px; position: absolute">
+    <div style="width: 223.86px; height: 127px; left: 0px; top: 0px; position: absolute; background: white"></div>
+    <div style="width: 82px; height: 82px; padding-bottom: 0.73px; padding-right: 0.73px; left: 140px; top: 42px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+      <img style="width: 81.27px; height: 81.27px" src="https://via.placeholder.com/81x81" />
+    </div>
+    <div style="width: 138px; left: 16px; top: 20px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Kitchen mixer</div>
+    <div style="width: 97.95px; left: 16px; top: 48px; position: absolute; color: #8B96A5; font-size: 13px; font-family: Inter; font-weight: 400; word-wrap: break-word">From      USD 100</div>
+    <div style="width: 127px; height: 0px; left: 0px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+    <div style="width: 221.96px; height: 0px; left: 223px; top: 126px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+  </div>
+  <div style="width: 223px; height: 127px; left: 1083px; top: 855px; position: absolute">
+    <div style="width: 223.86px; height: 127px; left: 0px; top: 0px; position: absolute; background: white"></div>
+    <div style="width: 82px; height: 82px; padding-top: 1.82px; padding-bottom: 1.82px; padding-left: 3.64px; left: 140px; top: 42px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+      <img style="width: 78.36px; height: 78.36px" src="https://via.placeholder.com/78x78" />
+    </div>
+    <div style="width: 138px; left: 16px; top: 20px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Smart watches</div>
+    <div style="width: 97.95px; left: 16px; top: 48px; position: absolute; color: #8B96A5; font-size: 13px; font-family: Inter; font-weight: 400; word-wrap: break-word">From      USD 19</div>
+    <div style="width: 127px; height: 0px; left: 0px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+    <div style="width: 221.96px; height: 0px; left: 223px; top: 126px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+  </div>
+  <div style="width: 224px; height: 127px; left: 858px; top: 855px; position: absolute">
+    <div style="width: 224.86px; height: 127px; left: 0px; top: 0px; position: absolute; background: white"></div>
+    <div style="width: 82.37px; height: 82px; left: 140.63px; top: 42px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+      <img style="width: 82.73px; height: 82.36px" src="https://via.placeholder.com/83x82" />
+    </div>
+    <div style="width: 138.62px; left: 16.07px; top: 20px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Kitchen dishes</div>
+    <div style="width: 98.39px; left: 16.07px; top: 48px; position: absolute; color: #8B96A5; font-size: 13px; font-family: Inter; font-weight: 400; word-wrap: break-word">From      USD 19</div>
+    <div style="width: 127px; height: 0px; left: 0px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+    <div style="width: 222.95px; height: 0px; left: 224px; top: 126px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+  </div>
+  <div style="width: 224px; height: 127px; left: 633px; top: 855px; position: absolute">
+    <div style="width: 224.86px; height: 127px; left: 0px; top: 0px; position: absolute; background: white"></div>
+    <div style="width: 82.37px; height: 82px; padding-left: 3.66px; padding-right: 3.66px; padding-top: 3.64px; padding-bottom: 3.64px; left: 140.63px; top: 42px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+      <img style="width: 75.05px; height: 74.71px" src="https://via.placeholder.com/75x75" />
+    </div>
+    <div style="width: 138.62px; left: 16.07px; top: 20px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Table Lamp</div>
+    <div style="width: 98.39px; left: 16.07px; top: 48px; position: absolute; color: #8B96A5; font-size: 13px; font-family: Inter; font-weight: 400; word-wrap: break-word">From      USD 19</div>
+    <div style="width: 127px; height: 0px; left: 0px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+    <div style="width: 222.95px; height: 0px; left: 224px; top: 126px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+  </div>
+  <div style="width: 223px; height: 127px; left: 409px; top: 855px; position: absolute">
+    <div style="width: 223.86px; height: 127px; left: 0px; top: 0px; position: absolute; background: white"></div>
+    <div style="width: 82px; height: 82px; padding-top: 6.56px; padding-bottom: 6.20px; padding-left: 7.65px; padding-right: 7.65px; left: 140px; top: 42px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+      <img style="width: 66.69px; height: 69.24px" src="https://via.placeholder.com/67x69" />
+    </div>
+    <div style="width: 138px; left: 16px; top: 20px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Soft chairs</div>
+    <div style="width: 97.95px; left: 16px; top: 48px; position: absolute; color: #8B96A5; font-size: 13px; font-family: Inter; font-weight: 400; word-wrap: break-word">From      USD 19</div>
+    <div style="width: 127px; height: 0px; left: 0px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+    <div style="width: 221.96px; height: 0px; left: 223px; top: 126px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+  </div>
+  <div style="width: 1180px; height: 257px; left: 130px; top: 1129px; position: absolute; background: white"></div>
+  <div style="width: 280px; height: 257px; left: 130px; top: 1129px; position: absolute">
+    <div style="width: 280px; height: 257px; left: 0px; top: 0px; position: absolute; background: #666666"></div>
+    <div style="width: 280px; height: 257px; left: 0px; top: 0px; position: absolute">
+      <div style="width: 280px; height: 257px; left: 0px; top: 0px; position: absolute; background: #C4C4C4"></div>
+      <div style="width: 295px; height: 374px; left: -2px; top: -90px; position: absolute; background: linear-gradient(0deg, rgba(255, 255, 255, 0.30) 0%, rgba(255, 255, 255, 0.30) 100%)"></div>
+    </div>
+    <div style="width: 123px; height: 40px; padding-left: 16px; padding-right: 16px; left: 18px; top: 120px; position: absolute; background: #FFF8F8; box-shadow: 0px 1px 2px rgba(56.31, 56.31, 56.31, 0.08); border-radius: 6px; border: 1px #FFF8F8 solid; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div style="justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+        <div style="text-align: center; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">Source now</div>
+      </div>
+    </div>
+    <div style="width: 154px; left: 20px; top: 20px; position: absolute; color: #1C1C1C; font-size: 20px; font-family: Inter; font-weight: 600; line-height: 26px; word-wrap: break-word">Consumer electronics and gadgets</div>
+  </div>
+  <div style="width: 223px; height: 127px; left: 1083px; top: 1259px; position: absolute">
+    <div style="width: 223.86px; height: 127px; left: 0px; top: 0px; position: absolute; background: white"></div>
+    <div style="width: 82px; height: 82px; padding-top: 4.74px; padding-bottom: 5.10px; padding-left: 5.10px; padding-right: 4.74px; left: 140px; top: 42px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+      <img style="width: 72.16px; height: 72.16px" src="https://via.placeholder.com/72x72" />
+    </div>
+    <div style="width: 138px; left: 16px; top: 20px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Apple Products</div>
+    <div style="width: 97.95px; left: 16px; top: 48px; position: absolute; color: #8B96A5; font-size: 13px; font-family: Inter; font-weight: 400; word-wrap: break-word">From      USD 240</div>
+    <div style="width: 127px; height: 0px; left: 0px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+    <div style="width: 221.96px; height: 0px; left: 223px; top: 126px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+  </div>
+  <div style="width: 224px; height: 127px; left: 858px; top: 1259px; position: absolute">
+    <div style="width: 224.86px; height: 127px; left: 0px; top: 0px; position: absolute; background: white"></div>
+    <div style="width: 82.37px; height: 82px; padding-top: 5.47px; padding-bottom: 5.83px; padding-left: 5.49px; padding-right: 5.86px; left: 140.63px; top: 42px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+      <img style="width: 71.02px; height: 70.70px" src="https://via.placeholder.com/71x71" />
+    </div>
+    <div style="width: 138.62px; left: 16.07px; top: 20px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Smartphones</div>
+    <div style="width: 98.39px; left: 16.07px; top: 48px; position: absolute; color: #8B96A5; font-size: 13px; font-family: Inter; font-weight: 400; word-wrap: break-word">From      USD 19</div>
+    <div style="width: 127px; height: 0px; left: 0px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+    <div style="width: 222.95px; height: 0px; left: 224px; top: 126px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+  </div>
+  <div style="width: 224px; height: 127px; left: 633px; top: 1259px; position: absolute">
+    <div style="width: 224.86px; height: 127px; left: 0px; top: 0px; position: absolute; background: white"></div>
+    <div style="width: 82.37px; height: 82px; padding-top: 12.03px; padding-bottom: 11.66px; padding-left: 4.03px; padding-right: 4.03px; left: 140.63px; top: 42px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+      <img style="width: 74.31px; height: 58.31px" src="https://via.placeholder.com/74x58" />
+    </div>
+    <div style="width: 138.62px; left: 16.07px; top: 20px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Laptops & PC</div>
+    <div style="width: 98.39px; left: 16.07px; top: 48px; position: absolute; color: #8B96A5; font-size: 13px; font-family: Inter; font-weight: 400; word-wrap: break-word">From      USD 340</div>
+    <div style="width: 127px; height: 0px; left: 0px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+    <div style="width: 222.95px; height: 0px; left: 224px; top: 126px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+  </div>
+  <div style="width: 223px; height: 127px; left: 409px; top: 1259px; position: absolute">
+    <div style="width: 223.86px; height: 127px; left: 0px; top: 0px; position: absolute; background: white"></div>
+    <div style="width: 82px; height: 82px; padding-top: 3.64px; padding-bottom: 3.28px; padding-left: 8.02px; padding-right: 8.02px; left: 140px; top: 42px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+      <img style="width: 65.96px; height: 75.08px" src="https://via.placeholder.com/66x75" />
+    </div>
+    <div style="width: 138px; left: 16px; top: 20px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Gaming set</div>
+    <div style="width: 97.95px; left: 16px; top: 48px; position: absolute; color: #8B96A5; font-size: 13px; font-family: Inter; font-weight: 400; word-wrap: break-word">From      USD 35</div>
+    <div style="width: 127px; height: 0px; left: 0px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+    <div style="width: 221.96px; height: 0px; left: 223px; top: 126px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+  </div>
+  <div style="width: 223px; height: 127px; left: 1083px; top: 1132px; position: absolute">
+    <div style="width: 223.86px; height: 127px; left: 0px; top: 0px; position: absolute; background: white"></div>
+    <div style="width: 82px; height: 82px; padding-top: 3.28px; padding-bottom: 2.55px; padding-left: 2.92px; padding-right: 2.92px; left: 140px; top: 42px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <img style="width: 76.17px; height: 76.17px" src="https://via.placeholder.com/76x76" />
+    </div>
+    <div style="width: 138px; left: 16px; top: 20px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Electric kattle</div>
+    <div style="width: 97.95px; left: 16px; top: 48px; position: absolute; color: #8B96A5; font-size: 13px; font-family: Inter; font-weight: 400; word-wrap: break-word">From      USD 90</div>
+    <div style="width: 127px; height: 0px; left: 0px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+    <div style="width: 221.96px; height: 0px; left: 223px; top: 126px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+  </div>
+  <div style="width: 224px; height: 127px; left: 858px; top: 1132px; position: absolute">
+    <div style="width: 224.86px; height: 127px; left: 0px; top: 0px; position: absolute; background: white"></div>
+    <div style="width: 82.37px; height: 82px; padding-top: 1.46px; padding-bottom: 1.09px; padding-left: 1.46px; padding-right: 1.10px; left: 140.63px; top: 42px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+      <img style="width: 79.81px; height: 79.45px" src="https://via.placeholder.com/80x79" />
+    </div>
+    <div style="width: 138.62px; left: 16.07px; top: 20px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Headphones</div>
+    <div style="width: 98.39px; left: 16.07px; top: 48px; position: absolute; color: #8B96A5; font-size: 13px; font-family: Inter; font-weight: 400; word-wrap: break-word">From      USD 10</div>
+    <div style="width: 127px; height: 0px; left: 0px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+    <div style="width: 222.95px; height: 0px; left: 224px; top: 126px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+  </div>
+  <div style="width: 224px; height: 127px; left: 633px; top: 1132px; position: absolute">
+    <div style="width: 224.86px; height: 127px; left: 0px; top: 0px; position: absolute; background: white"></div>
+    <div style="width: 82.37px; height: 82px; padding-top: 14.21px; padding-bottom: 14.21px; padding-left: 3.29px; padding-right: 2.93px; left: 140.63px; top: 42px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+      <img style="width: 76.14px; height: 53.57px" src="https://via.placeholder.com/76x54" />
+    </div>
+    <div style="width: 138.62px; left: 16.07px; top: 20px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Cameras</div>
+    <div style="width: 98.39px; left: 16.07px; top: 48px; position: absolute; color: #8B96A5; font-size: 13px; font-family: Inter; font-weight: 400; word-wrap: break-word">From      USD 89</div>
+    <div style="width: 127px; height: 0px; left: 0px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+    <div style="width: 222.95px; height: 0px; left: 224px; top: 126px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+  </div>
+  <div style="width: 223px; height: 127px; left: 409px; top: 1132px; position: absolute">
+    <div style="width: 223.86px; height: 127px; left: 0px; top: 0px; position: absolute; background: white"></div>
+    <div style="width: 82px; height: 82px; padding-left: 11.30px; padding-right: 11.30px; padding-top: 5.47px; padding-bottom: 5.47px; left: 140px; top: 42px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+      <img style="width: 59.40px; height: 71.07px" src="https://via.placeholder.com/59x71" />
+    </div>
+    <div style="width: 138px; left: 16px; top: 20px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Smart watches</div>
+    <div style="width: 97.95px; left: 16px; top: 48px; position: absolute; color: #8B96A5; font-size: 13px; font-family: Inter; font-weight: 400; word-wrap: break-word">From      USD 19</div>
+    <div style="width: 127px; height: 0px; left: 0px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+    <div style="width: 221.96px; height: 0px; left: 223px; top: 126px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; border: 1px #E0E0E0 solid"></div>
+  </div>
+  <div style="width: 1180px; height: 420px; left: 130px; top: 1409px; position: absolute">
+    <div style="width: 1180px; height: 420px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 6px; border: 1px #E0E0E0 solid"></div>
+    <div style="width: 1180px; height: 420px; left: 0px; top: 0px; position: absolute">
+      <div style="width: 1180px; height: 420px; left: 0px; top: 0px; position: absolute; background: #DFDFDF; border-radius: 6px; border: 1px #E0E0E0 solid"></div>
+      <img style="width: 1326px; height: 683px; left: 1313px; top: -146px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; opacity: 0.70" src="https://via.placeholder.com/1326x683" />
+      <div style="width: 1189px; height: 446px; left: -9px; top: -11px; position: absolute; background: linear-gradient(114deg, #881115 0%, rgba(136, 17, 21, 0.50) 100%)"></div>
+    </div>
+  </div>
+  <div style="height: 139px; left: 170px; top: 1449px; position: absolute">
+    <div style="width: 390px; left: 0px; top: 91px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Empower Your Shopping Experience: Where Convenience Meets Limitless Choice!</div>
+    <div style="width: 440px; left: 0px; top: 0px; position: absolute; color: white; font-size: 32px; font-family: Inter; font-weight: 600; word-wrap: break-word">An easy way to send requests to all suppliers</div>
+  </div>
+  <div style="width: 491px; height: 346px; left: 788px; top: 1439px; position: absolute">
+    <div style="width: 491px; height: 346px; left: 0px; top: 0px; position: absolute; background: #FFF8F8; box-shadow: 0px 1px 2px rgba(56.31, 56.31, 56.31, 0.25); border-radius: 6px"></div>
+    <div style="width: 128px; height: 40px; padding-left: 16px; padding-right: 16px; left: 20.50px; top: 281px; position: absolute; background: linear-gradient(180deg, #881115 0%, #881115 100%); border-radius: 6px; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div style="justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+        <div style="text-align: center; color: white; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">Send inquiry</div>
+      </div>
+    </div>
+    <div style="width: 440px; height: 73px; left: 20px; top: 128px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <div style="width: 440px; height: 73px; position: relative">
+        <div style="width: 440px; height: 73px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 6px; border: 1px #DEE2E7 solid"></div>
+        <div style="width: 392px; left: 11px; top: 11px; position: absolute; color: #8B96A5; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Type more details</div>
+        <div style="width: 8px; height: 8px; left: 425px; top: 59px; position: absolute; background: #E4E4E4"></div>
+      </div>
+    </div>
+    <div style="width: 332px; left: 20px; top: 22px; position: absolute; color: #1C1C1C; font-size: 20px; font-family: Inter; font-weight: 600; line-height: 28px; word-wrap: break-word">Send quote to suppliers</div>
+    <div style="width: 440px; height: 40px; left: 20px; top: 68px; position: absolute">
+      <div style="width: 440px; height: 40px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 6px; border: 1px #DEE2E7 solid"></div>
+      <div style="left: 10px; top: 11px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">What item you need?</div>
+    </div>
+    <div style="width: 206px; height: 40px; left: 20px; top: 221px; position: absolute">
+      <div style="width: 206px; height: 40px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 6px; border: 1px #DEE2E7 solid"></div>
+      <div style="left: 10px; top: 11px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Quantity</div>
+    </div>
+    <div style="width: 111px; height: 40px; left: 234px; top: 221px; position: absolute">
+      <div style="width: 111px; height: 40px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 6px; border: 1px #DEE2E7 solid"></div>
+      <div style="left: 10px; top: 11px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Pcs</div>
+      <div style="width: 24px; height: 24px; padding-left: 6px; padding-right: 6px; padding-top: 8.30px; padding-bottom: 8.30px; left: 79px; top: 8px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 12px; height: 7.41px; background: #8B96A5"></div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 1180px; height: 696px; left: 130px; top: 1865px; position: absolute">
+    <div style="width: 220px; height: 310px; left: 957px; top: 386px; position: absolute">
+      <div style="width: 220px; height: 310px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 6px; border: 1px #E0E0E0 solid"></div>
+      <div style="width: 65.53px; height: 21.24px; left: 16px; top: 223px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 22px; word-wrap: break-word">$80.95</div>
+      <div style="width: 186px; height: 53px; left: 16.01px; top: 248.14px; position: absolute; color: #8B96A5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Stainless Steel Traditional Electric Kettle</div>
+      <div style="width: 210.64px; height: 201.21px; left: 4.68px; top: 3.35px; position: absolute; background: #F7F7F7; border-radius: 4px"></div>
+      <div style="width: 200px; height: 200px; padding-top: 8px; padding-bottom: 6.22px; padding-left: 7.11px; padding-right: 7.11px; left: 10px; top: 9px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <img style="width: 185.78px; height: 185.78px" src="https://via.placeholder.com/186x186" />
+      </div>
+    </div>
+    <div style="width: 220px; height: 310px; left: 718px; top: 386px; position: absolute">
+      <div style="width: 220px; height: 310px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 6px; border: 1px #E0E0E0 solid"></div>
+      <div style="width: 65.53px; height: 21.24px; left: 16px; top: 223px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 22px; word-wrap: break-word">$10.30</div>
+      <div style="width: 186px; height: 53px; left: 16.01px; top: 248.14px; position: absolute; color: #8B96A5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Leather Wallet</div>
+      <div style="width: 210.64px; height: 201.21px; left: 4.68px; top: 3.35px; position: absolute; background: #F7F7F7; border-radius: 4px"></div>
+      <div style="width: 200px; height: 200px; padding-top: 4.44px; padding-bottom: 4.44px; padding-left: 8.89px; left: 10px; top: 9px; position: absolute; background: white; justify-content: flex-end; align-items: center; display: inline-flex">
+        <img style="width: 191.11px; height: 191.11px" src="https://via.placeholder.com/191x191" />
+      </div>
+    </div>
+    <div style="width: 220px; height: 310px; left: 479px; top: 386px; position: absolute">
+      <div style="width: 220px; height: 310px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 6px; border: 1px #E0E0E0 solid"></div>
+      <div style="width: 65.53px; height: 21.24px; left: 16px; top: 223px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 22px; word-wrap: break-word">$10.30</div>
+      <div style="width: 186px; height: 53px; left: 16.01px; top: 248.14px; position: absolute; color: #8B96A5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Smartwatch       silver color modern</div>
+      <div style="width: 210.64px; height: 201.21px; left: 4.68px; top: 3.35px; position: absolute; background: #F7F7F7; border-radius: 4px"></div>
+      <div style="width: 200px; height: 200px; padding-top: 14.22px; padding-bottom: 13.33px; padding-left: 14.22px; padding-right: 13.33px; left: 10px; top: 9px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+        <img style="width: 172.44px; height: 172.44px" src="https://via.placeholder.com/172x172" />
+      </div>
+    </div>
+    <div style="width: 220px; height: 310px; left: 240px; top: 386px; position: absolute">
+      <div style="width: 220px; height: 310px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 6px; border: 1px #E0E0E0 solid"></div>
+      <div style="width: 65.53px; height: 21.24px; left: 16px; top: 223px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 22px; word-wrap: break-word">$8.99</div>
+      <div style="width: 186px; height: 53px; left: 16.01px; top: 248.14px; position: absolute; color: #8B96A5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Headset for gaming       with mic</div>
+      <div style="width: 210.64px; height: 201.21px; left: 4.68px; top: 3.35px; position: absolute; background: #F7F7F7; border-radius: 4px"></div>
+      <div style="width: 200px; height: 200px; padding-top: 3.56px; padding-bottom: 2.67px; padding-left: 3.56px; padding-right: 2.67px; left: 10px; top: 9px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+        <img style="width: 193.78px; height: 193.78px" src="https://via.placeholder.com/194x194" />
+      </div>
+    </div>
+    <div style="width: 220px; height: 310px; left: 1px; top: 386px; position: absolute">
+      <div style="width: 220px; height: 310px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 6px; border: 1px #E0E0E0 solid"></div>
+      <div style="width: 65.53px; height: 21.24px; left: 16px; top: 223px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 22px; word-wrap: break-word">$9.99</div>
+      <div style="width: 186px; height: 53px; left: 16.01px; top: 248.14px; position: absolute; color: #8B96A5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Jeans shorts for men       blue color</div>
+      <div style="width: 210.64px; height: 201.21px; left: 4.68px; top: 3.35px; position: absolute; background: #F7F7F7; border-radius: 4px"></div>
+      <div style="width: 200px; height: 200px; padding-top: 24px; padding-bottom: 24px; padding-left: 26.67px; padding-right: 25.78px; left: 10px; top: 9px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+        <img style="width: 147.56px; height: 152px" src="https://via.placeholder.com/148x152" />
+      </div>
+    </div>
+    <div style="width: 220px; height: 310px; left: 960px; top: 56px; position: absolute">
+      <div style="width: 220px; height: 310px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 6px; border: 1px #E0E0E0 solid"></div>
+      <div style="width: 65.53px; height: 21.24px; left: 16px; top: 223px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 22px; word-wrap: break-word">$99.00</div>
+      <div style="width: 186px; height: 53px; left: 16.01px; top: 248.14px; position: absolute; color: #8B96A5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Jeans bag for travel       for men</div>
+      <div style="width: 210.64px; height: 201.21px; left: 4.68px; top: 3.35px; position: absolute; background: #F7F7F7; border-radius: 4px"></div>
+      <div style="width: 200px; height: 200px; padding-top: 14.22px; padding-bottom: 13.33px; padding-left: 14.22px; padding-right: 13.33px; left: 10px; top: 9px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+        <img style="width: 172.44px; height: 172.44px" src="https://via.placeholder.com/172x172" />
+      </div>
+    </div>
+    <div style="width: 220px; height: 310px; left: 720px; top: 56px; position: absolute">
+      <div style="width: 220px; height: 310px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 6px; border: 1px #E0E0E0 solid"></div>
+      <div style="width: 65.53px; height: 21.24px; left: 16px; top: 223px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 22px; word-wrap: break-word">$34.00</div>
+      <div style="width: 186px; height: 53px; left: 16.01px; top: 248.14px; position: absolute; color: #8B96A5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Blue wallet for men       leather metarfial</div>
+      <div style="width: 210.64px; height: 201.21px; left: 4.68px; top: 3.35px; position: absolute; background: #F7F7F7; border-radius: 4px"></div>
+      <div style="width: 200px; height: 200px; padding-top: 15.11px; padding-bottom: 14.22px; padding-left: 16px; padding-right: 15.11px; left: 10px; top: 9px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+        <img style="width: 168.89px; height: 170.67px" src="https://via.placeholder.com/169x171" />
+      </div>
+    </div>
+    <div style="width: 220px; height: 310px; left: 480px; top: 56px; position: absolute">
+      <div style="width: 220px; height: 310px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 6px; border: 1px #E0E0E0 solid"></div>
+      <div style="width: 65.53px; height: 21.24px; left: 16px; top: 223px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 22px; word-wrap: break-word">$12.50</div>
+      <div style="width: 186px; height: 53px; left: 16.01px; top: 248.14px; position: absolute; color: #8B96A5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Blue formal coat       medium size</div>
+      <div style="width: 210.64px; height: 201.21px; left: 4.68px; top: 3.35px; position: absolute; background: #F7F7F7; border-radius: 4px"></div>
+      <div style="width: 200px; height: 200px; padding-top: 15.11px; padding-bottom: 15.11px; padding-left: 18.67px; padding-right: 24.89px; left: 10px; top: 9px; position: absolute; background: white; justify-content: flex-start; align-items: center; display: inline-flex">
+        <img style="width: 156.44px; height: 169.78px" src="https://via.placeholder.com/156x170" />
+      </div>
+    </div>
+    <div style="width: 220px; height: 310px; left: 240px; top: 56px; position: absolute">
+      <div style="width: 220px; height: 310px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 6px; border: 1px #E0E0E0 solid"></div>
+      <div style="width: 65.53px; height: 21.24px; left: 16px; top: 223px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 22px; word-wrap: break-word">$10.30</div>
+      <div style="width: 186px; height: 53px; left: 16.01px; top: 248.14px; position: absolute; color: #8B96A5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Brown winter coat       medium size</div>
+      <div style="width: 210.64px; height: 201.21px; left: 4.68px; top: 3.35px; position: absolute; background: #F7F7F7; border-radius: 4px"></div>
+      <div style="width: 200px; height: 200px; padding-top: 7.11px; padding-bottom: 15.11px; padding-left: 12.44px; padding-right: 15.11px; left: 10px; top: 9px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+        <img style="width: 172.44px; height: 177.78px" src="https://via.placeholder.com/172x178" />
+      </div>
+    </div>
+    <div style="width: 220px; height: 310px; left: 0px; top: 56px; position: absolute">
+      <div style="width: 220px; height: 310px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 6px; border: 1px #E0E0E0 solid"></div>
+      <div style="width: 65.53px; height: 21.24px; left: 16px; top: 223px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 22px; word-wrap: break-word">$10.30</div>
+      <div style="width: 186px; height: 53px; left: 16.01px; top: 248.14px; position: absolute; color: #8B96A5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">T-shirts with multiple colors, for men</div>
+      <div style="width: 210.64px; height: 201.21px; left: 4.68px; top: 3.35px; position: absolute; background: #F7F7F7; border-radius: 4px"></div>
+      <div style="width: 200px; height: 200px; padding-top: 14.22px; padding-bottom: 15.11px; padding-left: 24.89px; padding-right: 24.89px; left: 10px; top: 9px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+        <img style="width: 150.22px; height: 170.67px" src="https://via.placeholder.com/150x171" />
+      </div>
+    </div>
+    <div style="left: 1px; top: 0px; position: absolute; color: #1C1C1C; font-size: 24px; font-family: Inter; font-weight: 600; line-height: 32px; word-wrap: break-word">Recommended items</div>
+  </div>
+  <div style="width: 1180px; height: 256px; left: 130px; top: 2582px; position: absolute">
+    <div style="width: 280px; height: 200px; left: 900px; top: 56px; position: absolute">
+      <div style="width: 280px; height: 200px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 6px; border: 1px #E0E0E0 solid"></div>
+      <div style="width: 175px; left: 20px; top: 136px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 22px; word-wrap: break-word">Product monitoring        and inspection</div>
+      <div style="width: 280px; height: 120px; left: 0px; top: 0px; position: absolute; background: #1C1C1C"></div>
+      <div style="width: 280px; height: 120px; left: 0px; top: 0px; position: absolute">
+        <div style="width: 280px; height: 120px; left: 0px; top: 0px; position: absolute; background: #D3D3D3"></div>
+        <img style="width: 288px; height: 192px; left: -8px; top: -34px; position: absolute; opacity: 0.50" src="https://via.placeholder.com/288x192" />
+      </div>
+      <div style="width: 55px; height: 55px; left: 204px; top: 92px; position: absolute; background: #F5E4E4; border-radius: 9999px; border: 2px white solid"></div>
+      <div style="width: 24px; height: 24px; padding-left: 3px; padding-right: 3px; padding-top: 1px; padding-bottom: 1px; left: 220px; top: 108px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 18px; height: 22px; background: #1C1C1C"></div>
+      </div>
+    </div>
+    <div style="width: 280px; height: 200px; left: 600px; top: 56px; position: absolute">
+      <div style="width: 280px; height: 200px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 6px; border: 1px #E0E0E0 solid"></div>
+      <div style="width: 175px; left: 20px; top: 136px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 22px; word-wrap: break-word">Fast, reliable shipping by ocean or air</div>
+      <div style="width: 280px; height: 120px; left: 0px; top: 0px; position: absolute; background: #1C1C1C"></div>
+      <div style="width: 280px; height: 120px; left: 0px; top: 0px; position: absolute">
+        <div style="width: 280px; height: 120px; left: 0px; top: 0px; position: absolute; background: #D3D3D3"></div>
+        <img style="width: 292px; height: 152px; left: -5px; top: -5px; position: absolute; opacity: 0.50" src="https://via.placeholder.com/292x152" />
+      </div>
+      <div style="width: 55px; height: 55px; left: 204px; top: 92px; position: absolute; background: #F5E4E4; border-radius: 9999px; border: 2px white solid"></div>
+      <div style="width: 24px; height: 24px; padding-left: 1.50px; padding-right: 1.50px; padding-top: 3px; padding-bottom: 3px; left: 220px; top: 108px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 21px; height: 18px; background: #1C1C1C"></div>
+      </div>
+    </div>
+    <div style="width: 280px; height: 200px; left: 300px; top: 56px; position: absolute">
+      <div style="width: 280px; height: 200px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 6px; border: 1px #E0E0E0 solid"></div>
+      <div style="width: 175px; left: 20px; top: 136px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 22px; word-wrap: break-word">Customize Your Products</div>
+      <div style="width: 280px; height: 120px; left: 0px; top: 0px; position: absolute; background: #1C1C1C"></div>
+      <div style="width: 280px; height: 120px; left: 0px; top: 0px; position: absolute">
+        <div style="width: 280px; height: 120px; left: 0px; top: 0px; position: absolute; background: #D3D3D3"></div>
+        <img style="width: 332px; height: 175px; left: -6px; top: -2px; position: absolute; opacity: 0.50" src="https://via.placeholder.com/332x175" />
+      </div>
+      <div style="width: 55px; height: 55px; left: 204px; top: 92px; position: absolute; background: #F5E4E4; border-radius: 9999px; border: 2px white solid"></div>
+      <div style="width: 24px; height: 24px; padding: 2px; left: 220px; top: 108px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 20px; height: 20px; background: #1C1C1C"></div>
+      </div>
+    </div>
+    <div style="width: 280px; height: 200px; left: 0px; top: 56px; position: absolute">
+      <div style="width: 280px; height: 200px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 6px; border: 1px #E0E0E0 solid"></div>
+      <div style="width: 215px; left: 20px; top: 136px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 22px; word-wrap: break-word">Source from        Industry Hubs</div>
+      <div style="width: 280px; height: 120px; left: 0px; top: 0px; position: absolute; background: #1C1C1C"></div>
+      <div style="width: 280px; height: 120px; left: 0px; top: 0px; position: absolute">
+        <div style="width: 280px; height: 120px; left: 0px; top: 0px; position: absolute; background: #D3D3D3"></div>
+        <img style="width: 303px; height: 222px; left: -13px; top: -75px; position: absolute; opacity: 0.50" src="https://via.placeholder.com/303x222" />
+      </div>
+      <div style="width: 55px; height: 55px; left: 204px; top: 92px; position: absolute; background: #F5E4E4; border-radius: 9999px; border: 2px white solid"></div>
+      <div style="width: 24px; height: 24px; padding: 3.26px; left: 220px; top: 108px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 17.49px; height: 17.49px; background: #1C1C1C"></div>
+      </div>
+    </div>
+    <div style="left: 0px; top: 0px; position: absolute; color: #1C1C1C; font-size: 24px; font-family: Inter; font-weight: 600; line-height: 32px; word-wrap: break-word">Our extra services</div>
+  </div>
+  <div style="width: 1177px; height: 138px; left: 131px; top: 2868px; position: absolute">
+    <div style="width: 221px; height: 36px; left: 0px; top: 56px; position: absolute">
+      <div style="width: 28px; height: 20px; left: 0px; top: 8px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <img style="width: 28px; height: 20px" src="https://via.placeholder.com/28x20" />
+      </div>
+      <div style="left: 39px; top: 0px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Arabic Emirates</div>
+      <div style="left: 39px; top: 20px; position: absolute; color: #8B96A5; font-size: 13px; font-family: Inter; font-weight: 400; word-wrap: break-word">shopname.ae</div>
+    </div>
+    <div style="width: 221px; height: 36px; left: 0px; top: 102px; position: absolute">
+      <div style="width: 28px; height: 20px; left: 0px; top: 8px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <img style="width: 28px; height: 20px" src="https://via.placeholder.com/28x20" />
+      </div>
+      <div style="left: 39px; top: 0px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Denmark</div>
+      <div style="left: 39px; top: 20px; position: absolute; color: #8B96A5; font-size: 13px; font-family: Inter; font-weight: 400; word-wrap: break-word">denmark.com.dk</div>
+    </div>
+    <div style="width: 221px; height: 36px; left: 478px; top: 56px; position: absolute">
+      <div style="width: 28px; height: 20px; left: 0px; top: 8px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <img style="width: 28px; height: 20px" src="https://via.placeholder.com/28x20" />
+      </div>
+      <div style="left: 39px; top: 0px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">United States</div>
+      <div style="left: 39px; top: 20px; position: absolute; color: #8B96A5; font-size: 13px; font-family: Inter; font-weight: 400; word-wrap: break-word">shopname.ae</div>
+    </div>
+    <div style="width: 221px; height: 36px; left: 478px; top: 102px; position: absolute">
+      <div style="width: 28px; height: 20px; left: 0px; top: 8px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <img style="width: 28px; height: 20px" src="https://via.placeholder.com/28x20" />
+      </div>
+      <div style="left: 39px; top: 0px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Egypt</div>
+      <div style="left: 39px; top: 20px; position: absolute; color: #8B96A5; font-size: 13px; font-family: Inter; font-weight: 400; word-wrap: break-word">shopname.eg</div>
+    </div>
+    <div style="width: 221px; height: 36px; left: 239px; top: 56px; position: absolute">
+      <div style="width: 28px; height: 20px; left: 0px; top: 8px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <img style="width: 28px; height: 20px" src="https://via.placeholder.com/28x20" />
+      </div>
+      <div style="left: 39px; top: 0px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Australia</div>
+      <div style="left: 39px; top: 20px; position: absolute; color: #8B96A5; font-size: 13px; font-family: Inter; font-weight: 400; word-wrap: break-word">shopname.ae</div>
+    </div>
+    <div style="width: 221px; height: 36px; left: 239px; top: 102px; position: absolute">
+      <div style="width: 28px; height: 20px; left: 0px; top: 8px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <img style="width: 28px; height: 20px" src="https://via.placeholder.com/28x20" />
+      </div>
+      <div style="left: 39px; top: 0px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">France</div>
+      <div style="left: 39px; top: 20px; position: absolute; color: #8B96A5; font-size: 13px; font-family: Inter; font-weight: 400; word-wrap: break-word">shopname.com.fr</div>
+    </div>
+    <div style="width: 221px; height: 36px; left: 717px; top: 56px; position: absolute">
+      <div style="width: 28px; height: 20px; left: 0px; top: 8px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <img style="width: 28px; height: 20px" src="https://via.placeholder.com/28x20" />
+      </div>
+      <div style="left: 39px; top: 0px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Russia</div>
+      <div style="left: 39px; top: 20px; position: absolute; color: #8B96A5; font-size: 13px; font-family: Inter; font-weight: 400; word-wrap: break-word">shopname.ru</div>
+    </div>
+    <div style="width: 221px; height: 36px; left: 717px; top: 102px; position: absolute">
+      <div style="width: 28px; height: 20px; left: 0px; top: 8px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <img style="width: 28px; height: 20px" src="https://via.placeholder.com/28x20" />
+      </div>
+      <div style="left: 39px; top: 0px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">China</div>
+      <div style="left: 39px; top: 20px; position: absolute; color: #8B96A5; font-size: 13px; font-family: Inter; font-weight: 400; word-wrap: break-word">shopname.ae</div>
+    </div>
+    <div style="width: 221px; height: 36px; left: 956px; top: 56px; position: absolute">
+      <div style="width: 28px; height: 20px; left: 0px; top: 8px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <img style="width: 28px; height: 20px" src="https://via.placeholder.com/28x20" />
+      </div>
+      <div style="left: 39px; top: 0px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Italy</div>
+      <div style="left: 39px; top: 20px; position: absolute; color: #8B96A5; font-size: 13px; font-family: Inter; font-weight: 400; word-wrap: break-word">shopname.it</div>
+    </div>
+    <div style="width: 221px; height: 36px; left: 956px; top: 102px; position: absolute">
+      <div style="width: 28px; height: 20px; left: 0px; top: 8px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <img style="width: 28px; height: 20px" src="https://via.placeholder.com/28x20" />
+      </div>
+      <div style="left: 39px; top: 0px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Great Britain</div>
+      <div style="left: 39px; top: 20px; position: absolute; color: #8B96A5; font-size: 13px; font-family: Inter; font-weight: 400; word-wrap: break-word">shopname.co.uk</div>
+    </div>
+    <div style="left: 0px; top: 0px; position: absolute; color: #1C1C1C; font-size: 24px; font-family: Inter; font-weight: 600; line-height: 32px; word-wrap: break-word">Suppliers by region</div>
+  </div>
+  <div style="width: 617px; height: 113px; left: 412px; top: 3083px; position: absolute">
+    <div style="width: 392px; height: 40px; left: 113px; top: 73px; position: absolute">
+      <div style="width: 274px; height: 40px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="width: 274px; height: 40px; background: white; border-radius: 6px; border: 1px #DEE2E7 solid"></div>
+        <div style="width: 22px; height: 22px; padding-left: 1.83px; padding-right: 1.83px; padding-top: 3.67px; padding-bottom: 3.67px; justify-content: center; align-items: center; display: inline-flex">
+          <div style="width: 18.33px; height: 14.67px; background: #8B96A5"></div>
+        </div>
+        <div style="width: 170px; color: #8B96A5; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Email</div>
+      </div>
+      <div style="width: 110px; height: 40px; padding-left: 16px; padding-right: 16px; left: 282px; top: 0px; position: absolute; background: linear-gradient(180deg, #881115 0%, #881115 100%); border-radius: 6px; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+          <div style="text-align: center; color: white; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">Subscribe</div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 617px; left: 0px; top: 28px; position: absolute; text-align: center; color: #606060; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Get daily news on upcoming offers from many suppliers all over the world</div>
+    <div style="left: 174px; top: 0px; position: absolute; text-align: center; color: #1C1C1C; font-size: 20px; font-family: Inter; font-weight: 600; line-height: 28px; word-wrap: break-word">Subscribe on our newsletter</div>
+  </div>
+  <div style="width: 1440px; height: 278px; left: 0px; top: 3226px; position: absolute; background: white"></div>
+  <div style="width: 1440px; height: 278px; left: 0px; top: 3226px; position: absolute; background: white"></div>
+  <div style="width: 78px; height: 137px; left: 1014px; top: 3265px; position: absolute">
+    <div style="left: 0px; top: 0px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 22px; word-wrap: break-word">For users</div>
+    <div style="left: 0px; top: 32px; position: absolute; color: #8B96A5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Login</div>
+    <div style="left: 0px; top: 59px; position: absolute; color: #8B96A5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Register</div>
+    <div style="left: 0px; top: 86px; position: absolute; color: #8B96A5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Settings</div>
+    <div style="left: 0px; top: 113px; position: absolute; color: #8B96A5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">My Orders</div>
+  </div>
+  <div style="height: 96px; left: 179px; top: 3326px; position: absolute">
+    <div style="width: 276px; left: 0px; top: 0px; position: absolute; color: #505050; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Best information about the company gies here but now lorem ipsum is</div>
+    <div style="width: 200px; height: 32px; left: 0px; top: 64px; position: absolute">
+      <div style="width: 32px; height: 32px; padding: 1px; left: 0px; top: 0px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 30px; height: 30px; background: #BDC4CD"></div>
+      </div>
+      <div style="width: 32px; height: 32px; padding: 1px; left: 42px; top: 0px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 30px; height: 30px; background: #BDC4CD"></div>
+      </div>
+      <div style="width: 32px; height: 32px; padding: 1px; left: 84px; top: 0px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 30px; height: 30px; background: #BDC4CD"></div>
+      </div>
+      <div style="width: 32px; height: 32px; padding: 1px; left: 126px; top: 0px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 30px; height: 30px; background: #BDC4CD"></div>
+      </div>
+      <div style="width: 32px; height: 32px; padding: 1px; left: 168px; top: 0px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 30px; height: 30px; background: #BDC4CD"></div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 124px; height: 129px; left: 1179px; top: 3265px; position: absolute">
+    <div style="width: 124px; height: 42px; left: 0px; top: 37px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <div style="width: 124px; height: 42px; position: relative">
+        <div style="width: 124px; height: 42px; left: 0px; top: 0px; position: absolute; background: #1C1C1C; border-radius: 6px"></div>
+        <div style="width: 101.90px; height: 25.34px; left: 10.94px; top: 8.69px; position: absolute; background: white"></div>
+      </div>
+    </div>
+    <div style="width: 124px; height: 42px; left: 0px; top: 87px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <div style="width: 124px; height: 42px; position: relative">
+        <div style="width: 124px; height: 42px; left: 0px; top: 0px; position: absolute; background: #1C1C1C; border-radius: 6px"></div>
+        <div style="width: 102.64px; height: 24.62px; left: 10.94px; top: 8.69px; position: absolute; background: white"></div>
+      </div>
+    </div>
+    <div style="left: 1px; top: 0px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 22px; word-wrap: break-word">Get app</div>
+  </div>
+  <div style="width: 108px; height: 137px; left: 815px; top: 3265px; position: absolute">
+    <div style="left: 0px; top: 0px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 22px; word-wrap: break-word">Information</div>
+    <div style="left: 0px; top: 32px; position: absolute; color: #8B96A5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Help Center</div>
+    <div style="left: 0px; top: 59px; position: absolute; color: #8B96A5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Money Refund</div>
+    <div style="left: 0px; top: 86px; position: absolute; color: #8B96A5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Shipping</div>
+    <div style="left: 0px; top: 113px; position: absolute; color: #8B96A5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Contact us</div>
+  </div>
+  <div style="width: 90px; height: 137px; left: 661px; top: 3265px; position: absolute">
+    <div style="left: 0px; top: 0px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 22px; word-wrap: break-word">Partnership</div>
+    <div style="left: 0px; top: 32px; position: absolute; color: #8B96A5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">About Us</div>
+    <div style="left: 0px; top: 59px; position: absolute; color: #8B96A5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Find store</div>
+    <div style="left: 0px; top: 86px; position: absolute; color: #8B96A5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Categories</div>
+    <div style="left: 0px; top: 113px; position: absolute; color: #8B96A5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Blogs</div>
+  </div>
+  <div style="width: 81px; height: 137px; left: 516px; top: 3265px; position: absolute">
+    <div style="left: 0px; top: 0px; position: absolute; color: #1C1C1C; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 22px; word-wrap: break-word">About</div>
+    <div style="left: 0px; top: 32px; position: absolute; color: #8B96A5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">About Us</div>
+    <div style="left: 0px; top: 59px; position: absolute; color: #8B96A5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Find store</div>
+    <div style="left: 0px; top: 86px; position: absolute; color: #8B96A5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Categories</div>
+    <div style="left: 0px; top: 113px; position: absolute; color: #8B96A5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Blogs</div>
+  </div>
+  <img style="width: 438px; height: 215px; left: 60px; top: 3154px; position: absolute" src="https://via.placeholder.com/438x215" />
+  <div style="width: 1440px; height: 59px; left: 0px; top: 3506px; position: absolute; background: #FFE3E3"></div>
+  <div style="height: 24px; left: 170px; top: 3524px; position: absolute">
+    <div style="width: 107px; height: 24px; left: 1069px; top: -0px; position: absolute">
+      <div style="width: 24px; height: 17px; left: 0px; top: 3px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <img style="width: 24px; height: 17px" src="https://via.placeholder.com/24x17" />
+      </div>
+      <div style="left: 30px; top: 0px; position: absolute; text-align: right; color: #606060; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">English</div>
+      <div style="width: 24px; height: 24px; padding-left: 6px; padding-right: 6px; padding-top: 8.30px; padding-bottom: 8.30px; left: 83px; top: 0px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 12px; height: 7.41px; background: #1C1C1C"></div>
+      </div>
+    </div>
+    <div style="width: 320px; left: 0px; top: 0px; position: absolute; color: #606060; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">© 2023 Ecommerce. </div>
+  </div>
+</div>
