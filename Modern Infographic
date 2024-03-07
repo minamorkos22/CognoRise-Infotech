@@ -1,0 +1,861 @@
+<div style="width: 6319px; height: 2872px; background: #404040">
+  <div style="width: 1910px; height: 1080px; left: 1675px; top: 197px; position: absolute; background: white">
+    <div style="width: 104.91px; height: 358.29px; left: 3025.19px; top: 132px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; background: linear-gradient(225deg, #5C007D 0%, #D11941 100%)"></div>
+    <img style="width: 415.11px; height: 153.36px; left: 2651.11px; top: 118.57px; position: absolute" src="https://via.placeholder.com/415x153" />
+    <div style="width: 337.13px; height: 86.94px; left: 2677.46px; top: 140.96px; position: absolute; background: white"></div>
+    <div style="width: 254.67px; height: 21.60px; left: 2747.88px; top: 156.82px; position: absolute; color: #5C007D; font-size: 7.14px; font-family: Open Sans; font-weight: 700; word-wrap: break-word">TITLE GOES HERE</div>
+    <div style="width: 254.67px; height: 10.80px; left: 2748.31px; top: 178.51px; position: absolute; color: #A8ACAF; font-size: 3.39px; font-family: Open Sans; font-weight: 300; word-wrap: break-word">Lorem ipsum dolor sit ame dolo reas consectetuer adipiscing elit sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat ame dolo.</div>
+    <div style="width: 144.14px; height: 122.26px; left: 2578.55px; top: 123.32px; position: absolute; background: linear-gradient(315deg, #5C007D 0%, #D11941 100%)"></div>
+    <div style="width: 108.67px; height: 108.67px; left: 2572.71px; top: 186.98px; position: absolute; transform: rotate(-40.30deg); transform-origin: 0 0; mix-blend-mode: multiply; background: radial-gradient(100.00% 100.00% at -1209778968.75% 2921619154.62%, black 0%, white 100%)"></div>
+    <div style="width: 112.43px; height: 95.26px; left: 2594.40px; top: 136.76px; position: absolute; background: linear-gradient(135deg, #5C007D 0%, #D11941 100%)"></div>
+    <div style="width: 96.43px; height: 81.77px; left: 2594.40px; top: 136.78px; position: absolute; mix-blend-mode: overlay; background: white"></div>
+    <div style="width: 76.40px; height: 30.24px; left: 2631.19px; top: 145.09px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">DATA</div>
+    <div style="width: 35.65px; height: 30.24px; left: 2625.94px; top: 185.18px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">01</div>
+    <div style="width: 104.91px; height: 358.29px; left: 3025.19px; top: 383.38px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; background: linear-gradient(225deg, #FF5572 0%, #FFBC00 100%)"></div>
+    <img style="width: 415.11px; height: 153.36px; left: 2651.11px; top: 369.12px; position: absolute" src="https://via.placeholder.com/415x153" />
+    <div style="width: 337.13px; height: 86.94px; left: 2677.46px; top: 392.35px; position: absolute; background: white"></div>
+    <div style="width: 144.14px; height: 122.26px; left: 2578.55px; top: 374.70px; position: absolute; background: linear-gradient(315deg, #FF5572 0%, #FFBC00 100%)"></div>
+    <div style="width: 100.40px; height: 116.34px; left: 2585.20px; top: 475.45px; position: absolute; transform: rotate(-74.60deg); transform-origin: 0 0; mix-blend-mode: multiply; background: radial-gradient(2.17% 2.17% at -25.86% 10.19%, black 0%, white 100%)"></div>
+    <div style="width: 147.71px; height: 17.28px; left: 2747.88px; top: 405.30px; position: absolute; color: black; font-size: 7.14px; font-family: Roboto; font-weight: 400; word-wrap: break-word">TITLE GOES HERE</div>
+    <div style="width: 254.67px; height: 10.80px; left: 2748.31px; top: 426.99px; position: absolute; color: #A8ACAF; font-size: 3.39px; font-family: Open Sans; font-weight: 300; word-wrap: break-word">Lorem ipsum dolor sit ame dolo reas consectetuer adipiscing elit sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat ame dolo.</div>
+    <div style="width: 112.40px; height: 95.35px; left: 2594.40px; top: 388.14px; position: absolute; background: linear-gradient(135deg, #FF5572 0%, #FFBC00 100%)"></div>
+    <div style="width: 96.43px; height: 81.79px; left: 2594.40px; top: 388.14px; position: absolute; mix-blend-mode: overlay; background: white"></div>
+    <div style="width: 76.40px; height: 30.24px; left: 2631.19px; top: 395.15px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">DATA</div>
+    <div style="width: 35.65px; height: 30.24px; left: 2625.94px; top: 435.24px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">03</div>
+    <div style="width: 104.93px; height: 358.42px; left: 2936.82px; top: 256.03px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; background: linear-gradient(45deg, #FF5572 0%, #D11941 100%)"></div>
+    <img style="width: 417.65px; height: 155.52px; left: 2561.97px; top: 241.68px; position: absolute" src="https://via.placeholder.com/418x156" />
+    <div style="width: 337.03px; height: 86.85px; left: 2589.12px; top: 264.99px; position: absolute; background: white"></div>
+    <div style="width: 144.14px; height: 122.26px; left: 2881.02px; top: 247.34px; position: absolute; background: linear-gradient(315deg, #FF5572 0%, #D11941 100%)"></div>
+    <div style="width: 116.20px; height: 100.57px; left: 2887.18px; top: 281.32px; position: absolute; transform: rotate(-12.15deg); transform-origin: 0 0; mix-blend-mode: multiply; background: radial-gradient(2.17% 2.17% at -25.51% 7.51%, black 0%, white 100%)"></div>
+    <div style="width: 112.32px; height: 95.28px; left: 2896.88px; top: 260.79px; position: absolute; background: linear-gradient(315deg, #FF5572 0%, #D11941 100%)"></div>
+    <div style="width: 96.42px; height: 81.72px; left: 2896.88px; top: 260.79px; position: absolute; mix-blend-mode: overlay; background: white"></div>
+    <div style="width: 76.40px; height: 30.24px; left: 2933.66px; top: 269.01px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">DATA</div>
+    <div style="width: 35.65px; height: 30.24px; left: 2928.41px; top: 309.10px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">02</div>
+    <div style="width: 147.71px; height: 17.28px; left: 2700.77px; top: 279.12px; position: absolute; color: black; font-size: 7.14px; font-family: Roboto; font-weight: 400; word-wrap: break-word">TITLE GOES HERE</div>
+    <div style="width: 254.67px; height: 10.80px; left: 2672.42px; top: 300.80px; position: absolute; color: #A8ACAF; font-size: 3.39px; font-family: Open Sans; font-weight: 300; word-wrap: break-word">Lorem ipsum dolor sit ame dolo reas consectetuer adipiscing elit sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat ame dolo.</div>
+    <div style="width: 61.12px; height: 86.70px; left: 2623.32px; top: 622.84px; position: absolute; background: linear-gradient(0deg, #FF5572 0%, #D11941 100%)"></div>
+    <div style="width: 115.26px; height: 76.33px; left: 2569.18px; top: 581.37px; position: absolute; background: linear-gradient(315deg, #FF5572 0%, #D11941 100%)"></div>
+    <div style="width: 76.40px; height: 30.24px; left: 2607.35px; top: 580.09px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">DATA</div>
+    <div style="width: 35.65px; height: 30.24px; left: 2603px; top: 613.53px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">01</div>
+    <img style="width: 407.47px; height: 155.52px; left: 2666.39px; top: 552.72px; position: absolute" src="https://via.placeholder.com/407x156" />
+    <div style="width: 330.58px; height: 89.75px; left: 2692.34px; top: 575.10px; position: absolute; background: linear-gradient(315deg, #FF5572 0%, #D11941 100%)"></div>
+    <div style="width: 247.03px; height: 30.24px; left: 2727.86px; top: 581.37px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">TITLE GOES HERE</div>
+    <div style="width: 4.40px; height: 8.46px; left: 2945.20px; top: 616.03px; position: absolute; background: white"></div>
+    <div style="width: 34.99px; height: 29.68px; left: 2931.03px; top: 606.51px; position: absolute; background: white"></div>
+    <div style="width: 61.12px; height: 86.70px; left: 2623.32px; top: 899.60px; position: absolute; background: linear-gradient(0deg, #D11941 0%, #5C007D 100%)"></div>
+    <div style="width: 115.26px; height: 76.33px; left: 2569.18px; top: 858.15px; position: absolute; background: linear-gradient(135deg, #5C007D 0%, #D11941 100%)"></div>
+    <div style="width: 76.40px; height: 30.24px; left: 2607.35px; top: 856.85px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">DATA</div>
+    <div style="width: 35.65px; height: 30.24px; left: 2603px; top: 890.31px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">03</div>
+    <img style="width: 407.47px; height: 157.68px; left: 2666.39px; top: 829.20px; position: absolute" src="https://via.placeholder.com/407x158" />
+    <div style="width: 330.58px; height: 89.66px; left: 2692.34px; top: 851.86px; position: absolute; background: linear-gradient(315deg, #5C007D 0%, #D11941 100%)"></div>
+    <div style="width: 247.03px; height: 30.24px; left: 2727.86px; top: 858.13px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">TITLE GOES HERE</div>
+    <div style="width: 30.27px; height: 25.92px; left: 2933.28px; top: 889.43px; position: absolute; background: white"></div>
+    <div style="width: 61.12px; height: 86.68px; left: 2623.32px; top: 755.59px; position: absolute; background: linear-gradient(0deg, #FF5572 0%, #D11941 100%)"></div>
+    <div style="width: 115.26px; height: 76.31px; left: 2569.18px; top: 714.12px; position: absolute; background: linear-gradient(315deg, #FF5572 0%, #FFBC00 100%)"></div>
+    <div style="width: 76.40px; height: 30.24px; left: 2607.35px; top: 712.85px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">DATA</div>
+    <div style="width: 35.65px; height: 30.24px; left: 2603px; top: 746.28px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">02</div>
+    <img style="width: 407.47px; height: 157.68px; left: 2666.39px; top: 684.48px; position: absolute" src="https://via.placeholder.com/407x158" />
+    <div style="width: 330.58px; height: 89.75px; left: 2692.34px; top: 707.86px; position: absolute; background: linear-gradient(315deg, #FF5572 0%, #FFBC00 100%)"></div>
+    <div style="width: 247.03px; height: 30.24px; left: 2727.86px; top: 714.10px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">TITLE GOES HERE</div>
+    <div style="width: 38.17px; height: 32.38px; left: 2929.46px; top: 736.02px; position: absolute; background: white"></div>
+    <div style="width: 88.57px; height: 17.28px; left: 2005.14px; top: 98.54px; position: absolute; color: black; font-size: 6.80px; font-family: Roboto; font-weight: 400; word-wrap: break-word">TITLE HERE</div>
+    <div style="width: 409.35px; height: 6.48px; left: 1915.45px; top: 399.67px; position: absolute; color: black; font-size: 2.54px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. </div>
+    <div style="width: 88.57px; height: 17.28px; left: 1946.67px; top: 376.60px; position: absolute; color: black; font-size: 6.80px; font-family: Roboto; font-weight: 400; word-wrap: break-word">TITLE HERE</div>
+    <div style="width: 88.57px; height: 17.28px; left: 2346.32px; top: 465.98px; position: absolute; color: black; font-size: 6.80px; font-family: Roboto; font-weight: 400; word-wrap: break-word">TITLE HERE</div>
+    <div style="width: 88.57px; height: 17.28px; left: 2402.30px; top: 142.84px; position: absolute; color: black; font-size: 6.80px; font-family: Roboto; font-weight: 400; word-wrap: break-word">TITLE HERE</div>
+    <div style="width: 218.56px; height: 185.37px; left: 1983.65px; top: 126.15px; position: absolute; background: linear-gradient(135deg, #FF5572 0%, #D11941 100%)"></div>
+    <div style="width: 218.56px; height: 185.37px; left: 1983.65px; top: 311.52px; position: absolute; background: linear-gradient(135deg, #5C007D 0%, #D11941 100%)"></div>
+    <div style="width: 218.55px; height: 185.37px; left: 2202.20px; top: 311.52px; position: absolute; background: linear-gradient(315deg, #00AABF 0%, #FFBC00 100%)"></div>
+    <div style="width: 218.55px; height: 185.37px; left: 2202.20px; top: 126.15px; position: absolute; background: linear-gradient(315deg, #FF5572 0%, #FFBC00 100%)"></div>
+    <div style="width: 263.83px; height: 305.33px; left: 2033.05px; top: 432.75px; position: absolute; transform: rotate(-74.03deg); transform-origin: 0 0; mix-blend-mode: multiply; background: radial-gradient(0.83% 0.83% at -2.26% 1.39%, black 0%, white 100%)"></div>
+    <div style="width: 283.70px; height: 240.62px; left: 2060.36px; top: 191.21px; position: absolute; background: white"></div>
+    <div style="width: 202.03px; height: 202.03px; left: 2066.21px; top: 325.56px; position: absolute; transform: rotate(-40.30deg); transform-origin: 0 0; mix-blend-mode: multiply; background: radial-gradient(1.17% 1.17% at -4.77% 2.48%, black 0%, white 100%)"></div>
+    <div style="width: 139.89px; height: 119.34px; left: 2062.32px; top: 377.55px; position: absolute; background: linear-gradient(315deg, #00AABF 0%, #FFBC00 100%)"></div>
+    <div style="width: 140.70px; height: 118.63px; left: 1983.65px; top: 192.70px; position: absolute; background: linear-gradient(135deg, #5C007D 0%, #D11941 100%)"></div>
+    <div style="width: 140.70px; height: 118.65px; left: 2280.06px; top: 311.54px; position: absolute; background: linear-gradient(315deg, #FF5572 0%, #FFBC00 100%)"></div>
+    <div style="width: 139.89px; height: 119.34px; left: 2202.20px; top: 126.15px; position: absolute; background: linear-gradient(135deg, #FF5572 0%, #D11941 100%)"></div>
+    <div style="width: 20.28px; height: 30.43px; left: 2225.92px; top: 447.53px; position: absolute; transform: rotate(-8.90deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">D</div>
+    <div style="width: 20.19px; height: 30.56px; left: 2236.28px; top: 445.96px; position: absolute; transform: rotate(-11.85deg); transform-origin: 0 0; color: white; font-size: 11.99px; font-family: Roboto; font-weight: 400; word-wrap: break-word">A</div>
+    <div style="width: 20.14px; height: 30.72px; left: 2244.55px; top: 444.22px; position: absolute; transform: rotate(-14.29deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">T</div>
+    <div style="width: 20.05px; height: 30.89px; left: 2250.89px; top: 442.68px; position: absolute; transform: rotate(-16.67deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">A</div>
+    <div style="width: 0px; height: 31.04px; left: 2260.40px; top: 439.79px; position: absolute; transform: rotate(-18.70deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word"> </div>
+    <div style="width: 17.41px; height: 31.19px; left: 2263.29px; top: 438.87px; position: absolute; transform: rotate(-20.52deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">0</div>
+    <div style="width: 17.31px; height: 31.41px; left: 2270.77px; top: 436.09px; position: absolute; transform: rotate(-23.12deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">3</div>
+    <div style="width: 4.11px; height: 7.87px; left: 2132.01px; top: 433.67px; position: absolute; background: white"></div>
+    <div style="width: 32.39px; height: 27.48px; left: 2118.95px; top: 424.83px; position: absolute; background: white"></div>
+    <div style="width: 28.57px; height: 24.19px; left: 2039.26px; top: 244.45px; position: absolute; background: white"></div>
+    <div style="width: 17.32px; height: 35.59px; left: 2048.77px; top: 320.78px; position: absolute; transform: rotate(82.67deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">D</div>
+    <div style="width: 17.38px; height: 35.50px; left: 2049.84px; top: 329.50px; position: absolute; transform: rotate(78.36deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">A</div>
+    <div style="width: 17.44px; height: 35.41px; left: 2051.28px; top: 336.66px; position: absolute; transform: rotate(75.10deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">T</div>
+    <div style="width: 17.52px; height: 35.29px; left: 2052.64px; top: 342.06px; position: absolute; transform: rotate(71.81deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">A</div>
+    <div style="width: 0px; height: 35.14px; left: 2055.39px; top: 350.33px; position: absolute; transform: rotate(68.96deg); transform-origin: 0 0; color: white; font-size: 11.99px; font-family: Roboto; font-weight: 400; word-wrap: break-word"> </div>
+    <div style="width: 15.47px; height: 35.05px; left: 2056.29px; top: 352.80px; position: absolute; transform: rotate(66.57deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">0</div>
+    <div style="width: 15.57px; height: 34.87px; left: 2059.03px; top: 359.21px; position: absolute; transform: rotate(63.18deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">4</div>
+    <div style="width: 19.44px; height: 32.07px; left: 2093.84px; top: 165.91px; position: absolute; transform: rotate(-30.16deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">D</div>
+    <div style="width: 19.63px; height: 31.70px; left: 2105.29px; top: 159.35px; position: absolute; transform: rotate(-26.32deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">A</div>
+    <div style="width: 19.77px; height: 31.44px; left: 2115.01px; top: 154.58px; position: absolute; transform: rotate(-23.42deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">T</div>
+    <div style="width: 19.90px; height: 31.19px; left: 2123.21px; top: 150.99px; position: absolute; transform: rotate(-20.54deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">A</div>
+    <div style="width: 0px; height: 30.99px; left: 2134.55px; top: 146.85px; position: absolute; transform: rotate(-18.10deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word"> </div>
+    <div style="width: 17.57px; height: 30.84px; left: 2139.24px; top: 145.30px; position: absolute; transform: rotate(-15.97deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">0</div>
+    <div style="width: 17.65px; height: 30.64px; left: 2149.63px; top: 142.37px; position: absolute; transform: rotate(-12.97deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">1</div>
+    <div style="width: 35.30px; height: 30.07px; left: 2248.38px; top: 169.80px; position: absolute; background: white"></div>
+    <div style="width: 17.94px; height: 34.63px; left: 2375.53px; top: 211.95px; position: absolute; transform: rotate(59.42deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">D</div>
+    <div style="width: 17.77px; height: 34.86px; left: 2381.54px; top: 222.29px; position: absolute; transform: rotate(63.44deg); transform-origin: 0 0; color: white; font-size: 11.99px; font-family: Roboto; font-weight: 400; word-wrap: break-word">A</div>
+    <div style="width: 17.66px; height: 35.07px; left: 2385.87px; top: 231.09px; position: absolute; transform: rotate(66.99deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">T</div>
+    <div style="width: 17.61px; height: 35.33px; left: 2389.05px; top: 238.27px; position: absolute; transform: rotate(70.40deg); transform-origin: 0 0; color: white; font-size: 12.03px; font-family: Roboto; font-weight: 400; word-wrap: break-word">A</div>
+    <div style="width: 0px; height: 35.35px; left: 2392.44px; top: 248.36px; position: absolute; transform: rotate(73.28deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word"> </div>
+    <div style="width: 15.25px; height: 35.43px; left: 2393.67px; top: 252.34px; position: absolute; transform: rotate(75.85deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">0</div>
+    <div style="width: 15.21px; height: 35.59px; left: 2395.95px; top: 261.47px; position: absolute; transform: rotate(79.87deg); transform-origin: 0 0; color: white; font-size: 12.02px; font-family: Roboto; font-weight: 400; word-wrap: break-word">2</div>
+    <div style="width: 15.92px; height: 4.30px; left: 2332.82px; top: 377.77px; position: absolute; background: white"></div>
+    <div style="width: 28.10px; height: 26.08px; left: 2326.83px; top: 350.17px; position: absolute; background: white"></div>
+    <div style="width: 225.18px; height: 190.99px; left: 2090.33px; top: 216.59px; position: absolute; background: white"></div>
+    <div style="width: 119.69px; height: 28.08px; left: 2149.69px; top: 282.64px; position: absolute; color: black; font-size: 11.51px; font-family: Roboto; font-weight: 400; word-wrap: break-word">RADIENT</div>
+    <div style="width: 61.12px; height: 17.28px; left: 2192.81px; top: 312.51px; position: absolute; color: black; font-size: 6.69px; font-family: Roboto; font-weight: 400; word-wrap: break-word">RAPHIC</div>
+    <div style="width: 8.84px; height: 12.83px; left: 2183.64px; top: 263.87px; position: absolute; background: #7D8693"></div>
+    <div style="width: 8.81px; height: 16.31px; left: 2198.18px; top: 260.39px; position: absolute; background: #7D8693"></div>
+    <div style="width: 8.81px; height: 18.84px; left: 2212.88px; top: 257.86px; position: absolute; background: #7D8693"></div>
+    <div style="width: 46.73px; height: 22.55px; left: 2182.11px; top: 243.89px; position: absolute; background: #7D8693"></div>
+    <div style="width: 1629px; height: 790px; left: 142px; top: 203px; position: absolute">
+      <div style="width: 534px; height: 534px; left: 111px; top: 256px; position: absolute; background: linear-gradient(255deg, #D75495 0%, #EA4B6C 100%); border-radius: 9999px"></div>
+      <div style="width: 534px; height: 534px; left: 541px; top: 170px; position: absolute; background: linear-gradient(255deg, #8B5ACB 0%, #D75495 100%); border-radius: 9999px"></div>
+      <div style="width: 534px; height: 534px; left: 962px; top: 89px; position: absolute; background: linear-gradient(255deg, #5C6EEA 0%, #8B5ACB 100%); border-radius: 9999px"></div>
+      <div style="width: 277px; height: 95px; left: 15px; top: 615px; position: absolute">
+        <div style="width: 277px; height: 95px; left: 0px; top: 0px; position: absolute">
+          <div style="width: 276px; height: 95px; left: 0px; top: 0px; position: absolute; background: #FC5C7D"></div>
+          <div style="width: 277px; height: 95px; left: 0px; top: 0px; position: absolute; background: #EA4B6C"></div>
+        </div>
+        <div style="width: 85px; height: 25px; left: 96px; top: 35px; position: absolute; color: white; font-size: 36px; font-family: Roboto; font-weight: 700; letter-spacing: 0.72px; word-wrap: break-word">2024</div>
+      </div>
+      <div style="width: 277px; height: 95px; left: 456px; top: 520px; position: absolute">
+        <div style="width: 277px; height: 95px; left: 0px; top: 0px; position: absolute">
+          <div style="width: 276px; height: 95px; left: 0px; top: 0px; position: absolute; background: #D7669E"></div>
+          <div style="width: 277px; height: 95px; left: 0px; top: 0px; position: absolute; background: #D75495"></div>
+        </div>
+        <div style="width: 85px; height: 25px; left: 96px; top: 35px; position: absolute; color: white; font-size: 36px; font-family: Roboto; font-weight: 700; letter-spacing: 0.72px; word-wrap: break-word">2024</div>
+      </div>
+      <div style="width: 277px; height: 95px; left: 897px; top: 440px; position: absolute">
+        <div style="width: 277px; height: 95px; left: 0px; top: 0px; position: absolute">
+          <div style="width: 276px; height: 95px; left: 0px; top: 0px; position: absolute; background: #9C75D0"></div>
+          <div style="width: 277px; height: 95px; left: 0px; top: 0px; position: absolute; background: #8B5ACB"></div>
+        </div>
+        <div style="width: 85px; height: 25px; left: 96px; top: 35px; position: absolute; color: white; font-size: 36px; font-family: Roboto; font-weight: 700; letter-spacing: 0.72px; word-wrap: break-word">2024</div>
+      </div>
+      <div style="width: 277px; height: 95px; left: 1338px; top: 345px; position: absolute">
+        <div style="width: 277px; height: 95px; left: 0px; top: 0px; position: absolute">
+          <div style="width: 276px; height: 95px; left: 0px; top: 0px; position: absolute; background: #6F81F7"></div>
+          <div style="width: 277px; height: 95px; left: 0px; top: 0px; position: absolute; background: #5C6EEA"></div>
+        </div>
+        <div style="width: 85px; height: 25px; left: 96px; top: 35px; position: absolute; color: white; font-size: 36px; font-family: Roboto; font-weight: 700; letter-spacing: 0.72px; word-wrap: break-word">2024</div>
+      </div>
+      <div style="width: 306px; height: 121px; left: 0px; top: 424px; position: absolute">
+        <div style="width: 290px; height: 15px; left: 8px; top: 0px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Poppins; font-weight: 600; letter-spacing: 1.44px; word-wrap: break-word">AWESOME TITTLE HERE </div>
+        <div style="width: 306px; height: 88px; left: 0px; top: 33px; position: absolute; text-align: center; color: rgba(38, 9, 121, 0.60); font-size: 22px; font-family: Poppins; font-weight: 400; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mattis nulla lacus.</div>
+      </div>
+      <div style="width: 306px; height: 121px; left: 441px; top: 329px; position: absolute">
+        <div style="width: 290px; height: 15px; left: 8px; top: 0px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Poppins; font-weight: 600; letter-spacing: 1.44px; word-wrap: break-word">AWESOME TITTLE HERE </div>
+        <div style="width: 306px; height: 88px; left: 0px; top: 33px; position: absolute; text-align: center; color: rgba(38, 9, 121, 0.60); font-size: 22px; font-family: Poppins; font-weight: 400; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mattis nulla lacus.</div>
+      </div>
+      <div style="width: 306px; height: 121px; left: 882px; top: 249px; position: absolute">
+        <div style="width: 290px; height: 15px; left: 8px; top: 0px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Poppins; font-weight: 600; letter-spacing: 1.44px; word-wrap: break-word">AWESOME TITTLE HERE </div>
+        <div style="width: 306px; height: 88px; left: 0px; top: 33px; position: absolute; text-align: center; color: rgba(38, 9, 121, 0.60); font-size: 22px; font-family: Poppins; font-weight: 400; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mattis nulla lacus.</div>
+      </div>
+      <div style="width: 306px; height: 121px; left: 1323px; top: 154px; position: absolute">
+        <div style="width: 290px; height: 15px; left: 8px; top: 0px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Poppins; font-weight: 600; letter-spacing: 1.44px; word-wrap: break-word">AWESOME TITTLE HERE </div>
+        <div style="width: 306px; height: 88px; left: 0px; top: 33px; position: absolute; text-align: center; color: rgba(38, 9, 121, 0.60); font-size: 22px; font-family: Poppins; font-weight: 400; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mattis nulla lacus.</div>
+      </div>
+      <div style="width: 98px; height: 98px; left: 104px; top: 270px; position: absolute">
+        <div style="width: 98px; height: 98px; left: 0px; top: 0px; position: absolute; background: #FC5C7D; border-radius: 9999px"></div>
+        <div style="width: 46px; height: 46px; left: 72px; top: 26px; position: absolute; transform: rotate(180deg); transform-origin: 0 0">
+          <div style="width: 46px; height: 5.17px; left: 0px; top: 0px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: white"></div>
+          <div style="width: 6.61px; height: 11.27px; left: -27.82px; top: 14.54px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: white"></div>
+          <div style="width: 13.58px; height: 15.80px; left: -18.51px; top: 14.54px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: white"></div>
+          <div style="width: 5.54px; height: 5.54px; left: -23.70px; top: 19.62px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: white"></div>
+          <div style="width: 40.19px; height: 29.35px; left: -3px; top: 7.87px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: white"></div>
+          <div style="width: 7.99px; height: 6.08px; left: -19px; top: 39.92px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: white"></div>
+        </div>
+      </div>
+      <div style="width: 98px; height: 98px; left: 545px; top: 175px; position: absolute">
+        <div style="width: 98px; height: 98px; left: 0px; top: 0px; position: absolute; background: #D7669E; border-radius: 9999px"></div>
+        <div style="width: 46px; height: 46px; left: 72px; top: 26px; position: absolute; transform: rotate(180deg); transform-origin: 0 0">
+          <div style="width: 46px; height: 5.17px; left: 0px; top: 0px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: white"></div>
+          <div style="width: 6.61px; height: 11.27px; left: -27.82px; top: 14.54px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: white"></div>
+          <div style="width: 13.58px; height: 15.80px; left: -18.51px; top: 14.54px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: white"></div>
+          <div style="width: 5.54px; height: 5.54px; left: -23.70px; top: 19.62px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: white"></div>
+          <div style="width: 40.19px; height: 29.35px; left: -3px; top: 7.87px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: white"></div>
+          <div style="width: 7.99px; height: 6.08px; left: -19px; top: 39.92px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: white"></div>
+        </div>
+      </div>
+      <div style="width: 98px; height: 98px; left: 986px; top: 95px; position: absolute">
+        <div style="width: 98px; height: 98px; left: 0px; top: 0px; position: absolute; background: #9C75D0; border-radius: 9999px"></div>
+        <div style="width: 46px; height: 46px; left: 72px; top: 26px; position: absolute; transform: rotate(180deg); transform-origin: 0 0">
+          <div style="width: 46px; height: 5.17px; left: 0px; top: 0px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: white"></div>
+          <div style="width: 6.61px; height: 11.27px; left: -27.82px; top: 14.54px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: white"></div>
+          <div style="width: 13.58px; height: 15.80px; left: -18.51px; top: 14.54px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: white"></div>
+          <div style="width: 5.54px; height: 5.54px; left: -23.70px; top: 19.62px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: white"></div>
+          <div style="width: 40.19px; height: 29.35px; left: -3px; top: 7.87px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: white"></div>
+          <div style="width: 7.99px; height: 6.08px; left: -19px; top: 39.92px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: white"></div>
+        </div>
+      </div>
+      <div style="width: 98px; height: 98px; left: 1427px; top: 0px; position: absolute">
+        <div style="width: 98px; height: 98px; left: 0px; top: 0px; position: absolute; background: #6F81F7; border-radius: 9999px"></div>
+        <div style="width: 46px; height: 46px; left: 72px; top: 26px; position: absolute; transform: rotate(180deg); transform-origin: 0 0">
+          <div style="width: 46px; height: 5.17px; left: 0px; top: 0px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: white"></div>
+          <div style="width: 6.61px; height: 11.27px; left: -27.82px; top: 14.54px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: white"></div>
+          <div style="width: 13.58px; height: 15.80px; left: -18.51px; top: 14.54px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: white"></div>
+          <div style="width: 5.54px; height: 5.54px; left: -23.70px; top: 19.62px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: white"></div>
+          <div style="width: 40.19px; height: 29.35px; left: -3px; top: 7.87px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: white"></div>
+          <div style="width: 7.99px; height: 6.08px; left: -19px; top: 39.92px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: white"></div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 713px; height: 237px; left: 90px; top: 90px; position: absolute">
+      <div style="width: 713px; height: 237px; left: 0px; top: 0px; position: absolute">
+        <div style="width: 387px; height: 36px; left: 0px; top: 0px; position: absolute; color: #260979; font-size: 50px; font-family: Poppins; font-weight: 600; letter-spacing: 2.50px; word-wrap: break-word">Timeline Data</div>
+        <div style="width: 355px; height: 33px; left: 0px; top: 56px; position: absolute; color: #260979; font-size: 50px; font-family: Poppins; font-weight: 600; letter-spacing: 2.50px; word-wrap: break-word">Presentation</div>
+        <div style="width: 713px; height: 84px; left: 0px; top: 153px; position: absolute; color: rgba(38, 9, 121, 0.25); font-size: 20px; font-family: Poppins; font-weight: 500; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mattis nulla lacus, ornare lectus. Ornare adipiscing habitant vulputate id elementum dictum porttitor quis. Feugiat mattis.</div>
+      </div>
+      <div style="width: 353px; height: 7px; left: 2px; top: 110px; position: absolute; background: linear-gradient(90deg, #FC5C7D 0%, #5C6EEA 100%); border-radius: 20px"></div>
+    </div>
+  </div>
+  <div style="width: 1920px; height: 1080px; left: 1675px; top: 1587px; position: absolute; background: white">
+    <div style="width: 256px; height: 21.60px; left: 2762.27px; top: 156.82px; position: absolute; color: #5C007D; font-size: 7.14px; font-family: Open Sans; font-weight: 700; word-wrap: break-word">TITLE GOES HERE</div>
+    <div style="width: 256px; height: 10.80px; left: 2762.70px; top: 178.51px; position: absolute; color: #A8ACAF; font-size: 3.39px; font-family: Open Sans; font-weight: 300; word-wrap: break-word">Lorem ipsum dolor sit ame dolo reas consectetuer adipiscing elit sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat ame dolo.</div>
+    <div style="width: 256px; height: 10.80px; left: 2762.70px; top: 426.99px; position: absolute; color: #A8ACAF; font-size: 3.39px; font-family: Open Sans; font-weight: 300; word-wrap: break-word">Lorem ipsum dolor sit ame dolo reas consectetuer adipiscing elit sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat ame dolo.</div>
+    <div style="width: 256px; height: 10.80px; left: 2686.41px; top: 300.80px; position: absolute; color: #A8ACAF; font-size: 3.39px; font-family: Open Sans; font-weight: 300; word-wrap: break-word">Lorem ipsum dolor sit ame dolo reas consectetuer adipiscing elit sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat ame dolo.</div>
+    <div style="width: 61.44px; height: 86.70px; left: 2637.06px; top: 622.84px; position: absolute; background: linear-gradient(0deg, #FF5572 0%, #D11941 100%)"></div>
+    <div style="width: 115.87px; height: 76.33px; left: 2582.63px; top: 581.37px; position: absolute; background: linear-gradient(315deg, #FF5572 0%, #D11941 100%)"></div>
+    <div style="width: 76.80px; height: 30.24px; left: 2621px; top: 580.09px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">DATA</div>
+    <div style="width: 35.84px; height: 30.24px; left: 2616.63px; top: 613.53px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">01</div>
+    <div style="width: 332.31px; height: 89.75px; left: 2706.43px; top: 575.10px; position: absolute; background: linear-gradient(315deg, #FF5572 0%, #D11941 100%)"></div>
+    <div style="width: 248.32px; height: 30.24px; left: 2742.14px; top: 581.37px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">TITLE GOES HERE</div>
+    <div style="width: 4.42px; height: 8.46px; left: 2960.62px; top: 616.03px; position: absolute; background: white"></div>
+    <div style="width: 35.17px; height: 29.68px; left: 2946.38px; top: 606.51px; position: absolute; background: white"></div>
+    <div style="width: 61.44px; height: 86.70px; left: 2637.06px; top: 899.60px; position: absolute; background: linear-gradient(0deg, #D11941 0%, #5C007D 100%)"></div>
+    <div style="width: 115.87px; height: 76.33px; left: 2582.63px; top: 858.15px; position: absolute; background: linear-gradient(135deg, #5C007D 0%, #D11941 100%)"></div>
+    <div style="width: 76.80px; height: 30.24px; left: 2621px; top: 856.85px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">DATA</div>
+    <div style="width: 35.84px; height: 30.24px; left: 2616.63px; top: 890.31px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">03</div>
+    <img style="width: 409.60px; height: 157.68px; left: 2680.35px; top: 829.20px; position: absolute" src="https://via.placeholder.com/410x158" />
+    <div style="width: 332.31px; height: 89.66px; left: 2706.43px; top: 851.86px; position: absolute; background: linear-gradient(315deg, #5C007D 0%, #D11941 100%)"></div>
+    <div style="width: 248.32px; height: 30.24px; left: 2742.14px; top: 858.13px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">TITLE GOES HERE</div>
+    <div style="width: 30.43px; height: 25.92px; left: 2948.63px; top: 889.43px; position: absolute; background: white"></div>
+    <div style="width: 61.44px; height: 86.68px; left: 2637.06px; top: 755.59px; position: absolute; background: linear-gradient(0deg, #FF5572 0%, #D11941 100%)"></div>
+    <div style="width: 115.87px; height: 76.31px; left: 2582.63px; top: 714.12px; position: absolute; background: linear-gradient(315deg, #FF5572 0%, #FFBC00 100%)"></div>
+    <div style="width: 76.80px; height: 30.24px; left: 2621px; top: 712.85px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">DATA</div>
+    <div style="width: 35.84px; height: 30.24px; left: 2616.63px; top: 746.28px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">02</div>
+    <img style="width: 409.60px; height: 157.68px; left: 2680.35px; top: 684.48px; position: absolute" src="https://via.placeholder.com/410x158" />
+    <div style="width: 332.31px; height: 89.75px; left: 2706.43px; top: 707.86px; position: absolute; background: linear-gradient(315deg, #FF5572 0%, #FFBC00 100%)"></div>
+    <div style="width: 248.32px; height: 30.24px; left: 2742.14px; top: 714.10px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">TITLE GOES HERE</div>
+    <div style="width: 38.37px; height: 32.38px; left: 2944.79px; top: 736.02px; position: absolute; background: white"></div>
+    <div style="width: 0px; height: 31.07px; left: 2272.24px; top: 439.79px; position: absolute; transform: rotate(-18.60deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word"> </div>
+    <div style="width: 0px; height: 35.31px; left: 2066.15px; top: 350.33px; position: absolute; transform: rotate(68.86deg); transform-origin: 0 0; color: white; font-size: 11.99px; font-family: Roboto; font-weight: 400; word-wrap: break-word"> </div>
+    <div style="width: 0px; height: 31.02px; left: 2145.73px; top: 146.85px; position: absolute; transform: rotate(-18.02deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word"> </div>
+    <div style="width: 0px; height: 35.52px; left: 2404.96px; top: 248.36px; position: absolute; transform: rotate(73.20deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word"> </div>
+    <div style="width: 360.26px; height: 0px; left: 707px; top: 497px; position: absolute; transform: rotate(28.70deg); transform-origin: 0 0; border: 10px #FC5C7D solid"></div>
+    <div style="width: 359.78px; height: 0px; left: 707px; top: 843px; position: absolute; transform: rotate(-28.56deg); transform-origin: 0 0; border: 10px #FC5C7D solid"></div>
+    <div style="width: 329px; height: 0px; left: 694px; top: 670px; position: absolute; border: 10px #FC5C7D solid"></div>
+    <div style="width: 257px; height: 33px; left: 396px; top: 374px; position: absolute; color: white; font-size: 9px; font-family: Roboto; font-weight: 400; word-wrap: break-word">TITLE GOES HERE</div>
+    <div style="width: 527px; height: 162px; left: 193px; top: 409px; position: absolute; background: white; box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.10)"></div>
+    <div style="width: 204px; height: 199px; left: 92px; top: 390px; position: absolute; background: linear-gradient(90deg, #FC5C7D 0%, #6A82FB 100%)"></div>
+    <div style="width: 161.84px; height: 164.93px; left: 99.21px; top: 556.47px; position: absolute; transform: rotate(-80.60deg); transform-origin: 0 0; background: white"></div>
+    <div style="width: 121px; height: 119px; left: 144px; top: 437px; position: absolute; mix-blend-mode: multiply; background: radial-gradient(2.62% 2.62% at -4.40% 6.43%, black 0%, white 100%)"></div>
+    <div style="width: 165px; height: 164px; left: 137px; top: 381px; position: absolute; background: linear-gradient(90deg, #FC5C7D 0%, #6A82FB 100%)"></div>
+    <div style="width: 24px; height: 15px; left: 177px; top: 497px; position: absolute; color: white; font-size: 21px; font-family: Roboto; font-weight: 500; word-wrap: break-word">01</div>
+    <div style="width: 45px; height: 15px; left: 177px; top: 473px; position: absolute; color: white; font-size: 18px; font-family: Roboto; font-weight: 500; word-wrap: break-word">STEP</div>
+    <div style="width: 60px; height: 58px; left: 230px; top: 395px; position: absolute; background: white"></div>
+    <div style="width: 31.39px; height: 30.96px; left: 244.20px; top: 407.82px; position: absolute; background: linear-gradient(90deg, #FC5C7D 0%, #6A82FB 100%)"></div>
+    <div style="width: 527px; height: 162px; left: 193px; top: 589px; position: absolute; background: white; box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.10)"></div>
+    <div style="width: 204px; height: 200px; left: 92px; top: 571px; position: absolute; background: linear-gradient(90deg, #B86EB9 0%, #6A82FB 100%)"></div>
+    <div style="width: 164px; height: 162px; left: 112px; top: 589px; position: absolute; background: white"></div>
+    <div style="width: 120.61px; height: 118.93px; left: 125.55px; top: 644.91px; position: absolute; transform: rotate(-22.10deg); transform-origin: 0 0; mix-blend-mode: multiply; background: radial-gradient(2.62% 2.62% at -4.41% 10.51%, black 0%, white 100%)"></div>
+    <div style="width: 167px; height: 165px; left: 137px; top: 562px; position: absolute; background: linear-gradient(90deg, #B86EB9 0%, #6A82FB 100%)"></div>
+    <div style="width: 24px; height: 19px; left: 177px; top: 674px; position: absolute; color: white; font-size: 21px; font-family: Roboto; font-weight: 500; word-wrap: break-word">02</div>
+    <div style="width: 45px; height: 12px; left: 177px; top: 653px; position: absolute; color: white; font-size: 18px; font-family: Roboto; font-weight: 500; word-wrap: break-word">STEP</div>
+    <div style="width: 58.73px; height: 58.73px; left: 218.27px; top: 604.68px; position: absolute; transform: rotate(-44.43deg); transform-origin: 0 0; background: white"></div>
+    <div style="width: 31.65px; height: 31.02px; left: 243.92px; top: 587.79px; position: absolute">
+      <div style="width: 3.96px; height: 8.66px; left: 12.81px; top: 10.09px; position: absolute; background: linear-gradient(90deg, #B86EB9 0%, #6A82FB 100%)"></div>
+      <div style="width: 31.65px; height: 31.02px; left: 0px; top: 0px; position: absolute; background: linear-gradient(90deg, #B86EB9 0%, #6A82FB 100%)"></div>
+    </div>
+    <div style="width: 526px; height: 162px; left: 193px; top: 771px; position: absolute; background: white; box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.10)"></div>
+    <div style="width: 204px; height: 200px; left: 92px; top: 751px; position: absolute; background: linear-gradient(90deg, #6A82FB 0%, #6A82FB 100%)"></div>
+    <div style="width: 164px; height: 162px; left: 112px; top: 771px; position: absolute; background: white"></div>
+    <div style="width: 120.61px; height: 118.93px; left: 125.57px; top: 825.72px; position: absolute; transform: rotate(-22.10deg); transform-origin: 0 0; mix-blend-mode: multiply; background: radial-gradient(2.62% 2.62% at -4.41% 14.61%, black 0%, white 100%)"></div>
+    <div style="width: 166px; height: 165px; left: 137px; top: 743px; position: absolute; background: linear-gradient(90deg, #6A82FB 0%, #6A82FB 100%)"></div>
+    <div style="width: 24px; height: 17px; left: 177px; top: 859px; position: absolute; color: white; font-size: 21px; font-family: Roboto; font-weight: 500; word-wrap: break-word">02</div>
+    <div style="width: 45px; height: 17px; left: 177px; top: 833px; position: absolute; color: white; font-size: 18px; font-family: Roboto; font-weight: 500; word-wrap: break-word">STEP</div>
+    <div style="height: 46.92px; left: 352.84px; top: 829px; position: absolute">
+      <div style="width: 99px; height: 14px; left: 0.16px; top: 0px; position: absolute; color: #7D8693; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">GPRAPHIC</div>
+      <div style="width: 123.62px; height: 16.07px; left: 0px; top: 30.85px; position: absolute; color: black; font-size: 22.77px; font-family: Roboto; font-weight: 400; word-wrap: break-word">TITLE HERE</div>
+    </div>
+    <div style="height: 47.20px; left: 346.66px; top: 646px; position: absolute">
+      <div style="width: 99px; height: 14px; left: 0.34px; top: 0px; position: absolute; color: #7D8693; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">GPRAPHIC</div>
+      <div style="width: 123.62px; height: 16.07px; left: 0px; top: 31.13px; position: absolute; color: black; font-size: 22.77px; font-family: Roboto; font-weight: 400; word-wrap: break-word">TITLE HERE</div>
+    </div>
+    <div style="height: 46.71px; left: 346.66px; top: 467px; position: absolute">
+      <div style="width: 98px; height: 13px; left: 0.34px; top: 0px; position: absolute; color: #7D8693; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">GPRAPHIC</div>
+      <div style="width: 123.62px; height: 16.07px; left: 0px; top: 30.64px; position: absolute; color: black; font-size: 22.77px; font-family: Roboto; font-weight: 400; word-wrap: break-word">TITLE HERE</div>
+    </div>
+    <div style="width: 58.73px; height: 58.73px; left: 218.30px; top: 785.51px; position: absolute; transform: rotate(-44.43deg); transform-origin: 0 0; background: white"></div>
+    <div style="width: 345.72px; height: 0px; left: 1077px; top: 635px; position: absolute; transform: rotate(-18.38deg); transform-origin: 0 0; border: 10px #FC5C7D solid"></div>
+    <div style="width: 338.68px; height: 0px; left: 1077px; top: 693px; position: absolute; transform: rotate(18.60deg); transform-origin: 0 0; border: 10px #EF5F88 solid"></div>
+    <div style="width: 250px; height: 0px; left: 1085px; top: 671px; position: absolute; border: 10px #7280F5 solid"></div>
+    <div style="width: 322.76px; height: 0px; left: 1048px; top: 601px; position: absolute; transform: rotate(-29.11deg); transform-origin: 0 0; border: 10px #7380F4 solid"></div>
+    <div style="width: 309.22px; height: 0px; left: 1057px; top: 728px; position: absolute; transform: rotate(31.38deg); transform-origin: 0 0; border: 10px #ED608A solid"></div>
+    <div style="width: 26.33px; left: 246.04px; top: 766.88px; position: absolute">
+      <div style="width: 15.03px; height: 4.65px; left: 5.70px; top: 30.01px; position: absolute; background: linear-gradient(90deg, #6A82FB 0%, #6A82FB 100%)"></div>
+      <div style="width: 26.33px; height: 28.37px; left: 0px; top: 0px; position: absolute; background: linear-gradient(90deg, #6A82FB 0%, #6A82FB 100%)"></div>
+    </div>
+    <div style="width: 713px; height: 237px; left: 90px; top: 90px; position: absolute">
+      <div style="width: 713px; height: 237px; left: 0px; top: 0px; position: absolute">
+        <div style="width: 387px; height: 36px; left: 0px; top: 0px; position: absolute; color: #260979; font-size: 50px; font-family: Poppins; font-weight: 600; letter-spacing: 2.50px; word-wrap: break-word">List View Data</div>
+        <div style="width: 355px; height: 33px; left: 0px; top: 56px; position: absolute; color: #260979; font-size: 50px; font-family: Poppins; font-weight: 600; letter-spacing: 2.50px; word-wrap: break-word">Presentation</div>
+        <div style="width: 713px; height: 84px; left: 0px; top: 153px; position: absolute; color: rgba(38, 9, 121, 0.25); font-size: 20px; font-family: Poppins; font-weight: 500; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mattis nulla lacus, ornare lectus. Ornare adipiscing habitant vulputate id elementum dictum porttitor quis. Feugiat mattis.</div>
+      </div>
+      <div style="width: 353px; height: 7px; left: 2px; top: 110px; position: absolute; background: linear-gradient(90deg, #FC5C7D 0%, #5C6EEA 100%); border-radius: 20px"></div>
+    </div>
+    <div style="width: 166px; height: 166px; left: 1321px; top: 314px; position: absolute">
+      <div style="width: 96px; height: 41px; left: 35px; top: 63px; position: absolute">
+        <div style="width: 73px; height: 14px; left: 12px; top: 0px; position: absolute; color: #7D8693; font-size: 15px; font-family: Roboto; font-weight: 400; word-wrap: break-word">GPRAPHIC</div>
+        <div style="width: 96px; height: 16px; left: 0px; top: 25px; position: absolute; color: black; font-size: 18px; font-family: Roboto; font-weight: 500; word-wrap: break-word">TITLE HERE</div>
+      </div>
+    </div>
+    <div style="width: 166px; height: 166px; left: 1393px; top: 447px; position: absolute">
+      <div style="width: 73px; height: 14px; left: 47px; top: 63px; position: absolute; color: #7D8693; font-size: 15px; font-family: Roboto; font-weight: 400; word-wrap: break-word">GPRAPHIC</div>
+      <div style="width: 96px; height: 16px; left: 35px; top: 88px; position: absolute; color: black; font-size: 18px; font-family: Roboto; font-weight: 500; word-wrap: break-word">TITLE HERE</div>
+    </div>
+    <div style="width: 166px; height: 166px; left: 1321px; top: 580px; position: absolute">
+      <div style="width: 96px; height: 41px; left: 35px; top: 63px; position: absolute">
+        <div style="width: 73px; height: 14px; left: 12px; top: 0px; position: absolute; color: #7D8693; font-size: 15px; font-family: Roboto; font-weight: 400; word-wrap: break-word">GPRAPHIC</div>
+        <div style="width: 96px; height: 16px; left: 0px; top: 25px; position: absolute; color: black; font-size: 18px; font-family: Roboto; font-weight: 500; word-wrap: break-word">TITLE HERE</div>
+      </div>
+    </div>
+    <div style="width: 166px; height: 166px; left: 1393px; top: 713px; position: absolute">
+      <div style="width: 96px; height: 41px; left: 35px; top: 63px; position: absolute">
+        <div style="width: 73px; height: 14px; left: 12px; top: 0px; position: absolute; color: #7D8693; font-size: 15px; font-family: Roboto; font-weight: 400; word-wrap: break-word">GPRAPHIC</div>
+        <div style="width: 96px; height: 16px; left: 0px; top: 25px; position: absolute; color: black; font-size: 18px; font-family: Roboto; font-weight: 500; word-wrap: break-word">TITLE HERE</div>
+      </div>
+    </div>
+    <div style="width: 166px; height: 166px; left: 1314px; top: 843px; position: absolute">
+      <div style="width: 96px; height: 41px; left: 35px; top: 63px; position: absolute">
+        <div style="width: 73px; height: 14px; left: 12px; top: 0px; position: absolute; color: #7D8693; font-size: 15px; font-family: Roboto; font-weight: 400; word-wrap: break-word">GPRAPHIC</div>
+        <div style="width: 96px; height: 16px; left: 0px; top: 25px; position: absolute; color: black; font-size: 18px; font-family: Roboto; font-weight: 500; word-wrap: break-word">TITLE HERE</div>
+      </div>
+    </div>
+    <div style="width: 178.03px; height: 178.03px; left: 911px; top: 574px; position: absolute">
+      <div style="width: 177.26px; height: 177.26px; left: 0.78px; top: 178.03px; position: absolute; transform: rotate(-90.25deg); transform-origin: 0 0; background: linear-gradient(271deg, #D7669E 0%, #FC5C7D 0%, #6F81F7 100%); border-radius: 9999px"></div>
+      <div style="width: 142px; height: 142px; left: 17.27px; top: 18.57px; position: absolute; background: white; box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.20); border-radius: 9999px"></div>
+      <div style="width: 116px; height: 116px; left: 30px; top: 31.57px; position: absolute; border-radius: 9999px; border: 2px #C06CB1 dotted"></div>
+    </div>
+    <div style="width: 167.17px; height: 174.01px; left: 931px; top: 597px; position: absolute">
+      <div style="width: 99.38px; height: 83.40px; left: 103.98px; top: 44.28px; position: absolute; transform: rotate(50.52deg); transform-origin: 0 0; background: linear-gradient(86deg, rgba(164.69, 164.69, 164.69, 0.30) 0%, rgba(164.69, 164.69, 164.69, 0) 100%); box-shadow: 25px 25px 25px; filter: blur(25px)"></div>
+      <div style="width: 95.53px; height: 95.53px; left: 135.11px; top: 67.55px; position: absolute; transform: rotate(135deg); transform-origin: 0 0; background: linear-gradient(146deg, #E8E8E8 0%, rgba(196, 196, 196, 0) 100%); border-radius: 9999px"></div>
+      <div style="width: 90.22px; height: 90.22px; left: 5.93px; top: 84.06px; position: absolute; transform: rotate(-60deg); transform-origin: 0 0; background: linear-gradient(200deg, #ECECEC 0%, white 100%); border-radius: 9999px"></div>
+    </div>
+  </div>
+  <div style="width: 1920px; height: 1080px; left: 3827px; top: 1587px; position: absolute; background: white">
+    <div style="width: 256px; height: 21.60px; left: 2762.27px; top: 156.82px; position: absolute; color: #5C007D; font-size: 7.14px; font-family: Open Sans; font-weight: 700; word-wrap: break-word">TITLE GOES HERE</div>
+    <div style="width: 256px; height: 10.80px; left: 2762.70px; top: 178.51px; position: absolute; color: #A8ACAF; font-size: 3.39px; font-family: Open Sans; font-weight: 300; word-wrap: break-word">Lorem ipsum dolor sit ame dolo reas consectetuer adipiscing elit sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat ame dolo.</div>
+    <div style="width: 256px; height: 10.80px; left: 2762.70px; top: 426.99px; position: absolute; color: #A8ACAF; font-size: 3.39px; font-family: Open Sans; font-weight: 300; word-wrap: break-word">Lorem ipsum dolor sit ame dolo reas consectetuer adipiscing elit sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat ame dolo.</div>
+    <div style="width: 256px; height: 10.80px; left: 2686.41px; top: 300.80px; position: absolute; color: #A8ACAF; font-size: 3.39px; font-family: Open Sans; font-weight: 300; word-wrap: break-word">Lorem ipsum dolor sit ame dolo reas consectetuer adipiscing elit sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat ame dolo.</div>
+    <div style="width: 61.44px; height: 86.70px; left: 2637.06px; top: 622.84px; position: absolute; background: linear-gradient(0deg, #FF5572 0%, #D11941 100%)"></div>
+    <div style="width: 115.87px; height: 76.33px; left: 2582.63px; top: 581.37px; position: absolute; background: linear-gradient(315deg, #FF5572 0%, #D11941 100%)"></div>
+    <div style="width: 76.80px; height: 30.24px; left: 2621px; top: 580.09px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">DATA</div>
+    <div style="width: 35.84px; height: 30.24px; left: 2616.63px; top: 613.53px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">01</div>
+    <div style="width: 332.31px; height: 89.75px; left: 2706.43px; top: 575.10px; position: absolute; background: linear-gradient(315deg, #FF5572 0%, #D11941 100%)"></div>
+    <div style="width: 248.32px; height: 30.24px; left: 2742.14px; top: 581.37px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">TITLE GOES HERE</div>
+    <div style="width: 4.42px; height: 8.46px; left: 2960.62px; top: 616.03px; position: absolute; background: white"></div>
+    <div style="width: 35.17px; height: 29.68px; left: 2946.38px; top: 606.51px; position: absolute; background: white"></div>
+    <div style="width: 61.44px; height: 86.70px; left: 2637.06px; top: 899.60px; position: absolute; background: linear-gradient(0deg, #D11941 0%, #5C007D 100%)"></div>
+    <div style="width: 115.87px; height: 76.33px; left: 2582.63px; top: 858.15px; position: absolute; background: linear-gradient(135deg, #5C007D 0%, #D11941 100%)"></div>
+    <div style="width: 76.80px; height: 30.24px; left: 2621px; top: 856.85px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">DATA</div>
+    <div style="width: 35.84px; height: 30.24px; left: 2616.63px; top: 890.31px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">03</div>
+    <img style="width: 409.60px; height: 157.68px; left: 2680.35px; top: 829.20px; position: absolute" src="https://via.placeholder.com/410x158" />
+    <div style="width: 332.31px; height: 89.66px; left: 2706.43px; top: 851.86px; position: absolute; background: linear-gradient(315deg, #5C007D 0%, #D11941 100%)"></div>
+    <div style="width: 248.32px; height: 30.24px; left: 2742.14px; top: 858.13px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">TITLE GOES HERE</div>
+    <div style="width: 30.43px; height: 25.92px; left: 2948.63px; top: 889.43px; position: absolute; background: white"></div>
+    <div style="width: 61.44px; height: 86.68px; left: 2637.06px; top: 755.59px; position: absolute; background: linear-gradient(0deg, #FF5572 0%, #D11941 100%)"></div>
+    <div style="width: 115.87px; height: 76.31px; left: 2582.63px; top: 714.12px; position: absolute; background: linear-gradient(315deg, #FF5572 0%, #FFBC00 100%)"></div>
+    <div style="width: 76.80px; height: 30.24px; left: 2621px; top: 712.85px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">DATA</div>
+    <div style="width: 35.84px; height: 30.24px; left: 2616.63px; top: 746.28px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">02</div>
+    <img style="width: 409.60px; height: 157.68px; left: 2680.35px; top: 684.48px; position: absolute" src="https://via.placeholder.com/410x158" />
+    <div style="width: 332.31px; height: 89.75px; left: 2706.43px; top: 707.86px; position: absolute; background: linear-gradient(315deg, #FF5572 0%, #FFBC00 100%)"></div>
+    <div style="width: 248.32px; height: 30.24px; left: 2742.14px; top: 714.10px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">TITLE GOES HERE</div>
+    <div style="width: 38.37px; height: 32.38px; left: 2944.79px; top: 736.02px; position: absolute; background: white"></div>
+    <div style="width: 0px; height: 31.07px; left: 2272.24px; top: 439.79px; position: absolute; transform: rotate(-18.60deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word"> </div>
+    <div style="width: 0px; height: 35.31px; left: 2066.15px; top: 350.33px; position: absolute; transform: rotate(68.86deg); transform-origin: 0 0; color: white; font-size: 11.99px; font-family: Roboto; font-weight: 400; word-wrap: break-word"> </div>
+    <div style="width: 0px; height: 31.02px; left: 2145.73px; top: 146.85px; position: absolute; transform: rotate(-18.02deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word"> </div>
+    <div style="width: 0px; height: 35.52px; left: 2404.96px; top: 248.36px; position: absolute; transform: rotate(73.20deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word"> </div>
+    <div style="width: 750px; height: 208px; left: 90px; top: 90px; position: absolute">
+      <div style="width: 750px; height: 208px; left: 0px; top: 0px; position: absolute">
+        <div style="width: 750px; height: 36px; left: 0px; top: 0px; position: absolute; color: #260979; font-size: 50px; font-family: Poppins; font-weight: 600; letter-spacing: 2.50px; word-wrap: break-word">Social Media Analysis Data</div>
+        <div style="width: 355px; height: 33px; left: 0px; top: 56px; position: absolute; color: #260979; font-size: 50px; font-family: Poppins; font-weight: 600; letter-spacing: 2.50px; word-wrap: break-word">Presentation</div>
+        <div style="width: 713px; height: 55px; left: 0px; top: 153px; position: absolute; color: rgba(38, 9, 121, 0.25); font-size: 20px; font-family: Poppins; font-weight: 500; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mattis nulla lacus, ornare lectus. Ornare adipiscing habitant.</div>
+      </div>
+      <div style="width: 353px; height: 7px; left: 2px; top: 110px; position: absolute; background: linear-gradient(90deg, #FC5C7D 0%, #5C6EEA 100%); border-radius: 20px"></div>
+    </div>
+    <div style="width: 219px; height: 656px; left: 173px; top: 382px; position: absolute">
+      <div style="width: 149px; height: 550px; left: 32px; top: 0px; position: absolute">
+        <div style="width: 149px; height: 44px; left: 0px; top: 506px; position: absolute; background: rgba(252, 92, 125, 0.50); box-shadow: 20px 20px 20px; border-radius: 9999px; filter: blur(20px)"></div>
+        <img style="width: 115px; height: 524px; left: 17px; top: 17px; position: absolute; opacity: 0.65" src="https://via.placeholder.com/115x524" />
+        <div style="width: 115px; height: 34px; left: 17px; top: 0px; position: absolute; background: #FC6F8D; box-shadow: 0px -3px 4px rgba(0, 0, 0, 0.05) inset; border-radius: 9999px"></div>
+        <img style="width: 115px; height: 383.34px; left: 17px; top: 157.66px; position: absolute" src="https://via.placeholder.com/115x383" />
+        <img style="width: 115px; height: 34px; left: 17px; top: 142px; position: absolute" src="https://via.placeholder.com/115x34" />
+        <div style="width: 74px; height: 74px; left: 38px; top: 241px; position: absolute; background: white; border-radius: 9999px"></div>
+        <div style="width: 38px; height: 38px; left: 56px; top: 259px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+          <div style="width: 38px; height: 38px; position: relative">
+            <div style="width: 38px; height: 38px; left: 0px; top: 0px; position: absolute; border: 2px #FC5C7D solid"></div>
+            <div style="width: 18.36px; height: 23.60px; left: 9.82px; top: 8.33px; position: absolute; background: #FC5C7D"></div>
+          </div>
+        </div>
+        <div style="width: 87px; height: 382px; left: 27px; top: 116px; position: absolute">
+          <div style="width: 10px; height: 10px; left: 11px; top: 338px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 10px; height: 10px; left: 58px; top: 290px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 8px; height: 8px; left: 26px; top: 262px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 6px; height: 6px; left: 34px; top: 308px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 8px; height: 8px; left: 0px; top: 290px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 6px; height: 6px; left: 72px; top: 248px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 16px; height: 16px; left: 40px; top: 345px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 12px; height: 12px; left: 75px; top: 314px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 11px; height: 11px; left: 72px; top: 371px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 3px; height: 3px; left: 3px; top: 233px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 3px; height: 3px; left: 34px; top: 23px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 3px; height: 3px; left: 45px; top: 220px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 3px; height: 3px; left: 76px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+        </div>
+      </div>
+      <div style="width: 219px; height: 86px; left: 0px; top: 570px; position: absolute">
+        <div style="width: 219px; height: 46px; left: 0px; top: 40px; position: absolute; text-align: center; color: rgba(38, 9, 121, 0.25); font-size: 20px; font-family: Poppins; font-weight: 500; line-height: 22.80px; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur.</div>
+        <div style="width: 179px; height: 25px; left: 22px; top: 0px; position: absolute; color: #636363; font-size: 35px; font-family: Poppins; font-weight: 600; text-transform: uppercase; word-wrap: break-word">pinterest</div>
+      </div>
+      <div style="width: 25px; height: 369px; left: 2px; top: 159px; position: absolute">
+        <div style="width: 75px; height: 25px; left: 0px; top: 271px; position: absolute; transform: rotate(-90deg); transform-origin: 0 0; color: #FC5C7D; font-size: 35px; font-family: Source Sans Pro; font-weight: 600; text-transform: uppercase; word-wrap: break-word">80%</div>
+        <div style="width: 181px; height: 0px; left: 13px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 2px #FD95AB solid"></div>
+        <div style="width: 78px; height: 0px; left: 13px; top: 291px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 2px #FD95AB solid"></div>
+      </div>
+    </div>
+    <div style="width: 219px; height: 656px; left: 1305px; top: 382px; position: absolute">
+      <div style="width: 149px; height: 550px; left: 32px; top: 0px; position: absolute">
+        <div style="width: 149px; height: 44px; left: 0px; top: 506px; position: absolute; background: rgba(92, 110, 234, 0.50); box-shadow: 20px 20px 20px; border-radius: 9999px; filter: blur(20px)"></div>
+        <img style="width: 115px; height: 524px; left: 17px; top: 17px; position: absolute; opacity: 0.65" src="https://via.placeholder.com/115x524" />
+        <div style="width: 115px; height: 34px; left: 17px; top: 0px; position: absolute; background: #3291E8; box-shadow: 0px -3px 4px rgba(0, 0, 0, 0.05) inset; border-radius: 9999px"></div>
+        <img style="width: 115px; height: 383.34px; left: 17px; top: 157.66px; position: absolute" src="https://via.placeholder.com/115x383" />
+        <img style="width: 115px; height: 34px; left: 17px; top: 142px; position: absolute" src="https://via.placeholder.com/115x34" />
+        <div style="width: 74px; height: 74px; left: 38px; top: 241px; position: absolute; background: white; border-radius: 9999px"></div>
+        <div style="width: 38px; height: 38px; left: 56px; top: 259px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+          <div style="width: 38px; height: 38px; border: 2px #03A9F4 solid"></div>
+        </div>
+        <div style="width: 87px; height: 382px; left: 27px; top: 116px; position: absolute">
+          <div style="width: 10px; height: 10px; left: 11px; top: 338px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 10px; height: 10px; left: 58px; top: 290px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 8px; height: 8px; left: 26px; top: 262px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 6px; height: 6px; left: 34px; top: 308px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 8px; height: 8px; left: 0px; top: 290px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 6px; height: 6px; left: 72px; top: 248px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 16px; height: 16px; left: 40px; top: 345px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 12px; height: 12px; left: 75px; top: 314px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 11px; height: 11px; left: 72px; top: 371px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 3px; height: 3px; left: 3px; top: 233px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 3px; height: 3px; left: 34px; top: 23px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 3px; height: 3px; left: 45px; top: 220px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 3px; height: 3px; left: 76px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+        </div>
+      </div>
+      <div style="width: 219px; height: 86px; left: 0px; top: 570px; position: absolute">
+        <div style="width: 219px; height: 46px; left: 0px; top: 40px; position: absolute; text-align: center; color: rgba(38, 9, 121, 0.25); font-size: 20px; font-family: Poppins; font-weight: 500; line-height: 22.80px; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur.</div>
+        <div style="width: 179px; height: 25px; left: 22px; top: 0px; position: absolute; text-align: center; color: #636363; font-size: 35px; font-family: Poppins; font-weight: 600; text-transform: uppercase; word-wrap: break-word">Twitter</div>
+      </div>
+      <div style="width: 25px; height: 369px; left: 2px; top: 159px; position: absolute">
+        <div style="width: 75px; height: 25px; left: 0px; top: 271px; position: absolute; transform: rotate(-90deg); transform-origin: 0 0; color: #03A9F4; font-size: 35px; font-family: Source Sans Pro; font-weight: 600; text-transform: uppercase; word-wrap: break-word">80%</div>
+        <div style="width: 181px; height: 0px; left: 13px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 2px #5BC7F8 solid"></div>
+        <div style="width: 78px; height: 0px; left: 13px; top: 291px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 2px #5BC7F8 solid"></div>
+      </div>
+    </div>
+    <div style="width: 219px; height: 654px; left: 456px; top: 382px; position: absolute">
+      <div style="width: 149px; height: 550px; left: 35px; top: 0px; position: absolute">
+        <div style="width: 149px; height: 44px; left: 0px; top: 506px; position: absolute; background: rgba(215, 84, 149, 0.50); box-shadow: 20px 20px 20px; border-radius: 9999px; filter: blur(20px)"></div>
+        <img style="width: 115px; height: 524px; left: 17px; top: 17px; position: absolute; opacity: 0.65" src="https://via.placeholder.com/115x524" />
+        <div style="width: 115px; height: 34px; left: 17px; top: 0px; position: absolute; background: #DF5197; box-shadow: 0px -3px 4px rgba(0, 0, 0, 0.05) inset; border-radius: 9999px"></div>
+        <img style="width: 115px; height: 443px; left: 17px; top: 98px; position: absolute" src="https://via.placeholder.com/115x443" />
+        <img style="width: 115px; height: 36.64px; left: 17px; top: 79px; position: absolute" src="https://via.placeholder.com/115x37" />
+        <div style="width: 74px; height: 74px; left: 38px; top: 185px; position: absolute; background: white; border-radius: 9999px"></div>
+        <div style="width: 26px; height: 26px; left: 88px; top: 209px; position: absolute; transform: rotate(180deg); transform-origin: 0 0">
+          <div style="width: 26px; height: 26px; left: 0px; top: 0px; position: absolute; background: linear-gradient(45deg, #D75495 0%, #FF0100 50%, #D800B9 100%)"></div>
+          <div style="width: 13.35px; height: 13.35px; left: 6.32px; top: 6.32px; position: absolute; background: linear-gradient(45deg, #FF6400 0%, #FF0100 50%, #FD0056 100%)"></div>
+          <div style="width: 3.12px; height: 3.12px; left: 18.38px; top: 4.50px; position: absolute; background: linear-gradient(45deg, #F30072 0%, #E50097 100%)"></div>
+        </div>
+        <div style="width: 89px; height: 382px; left: 27px; top: 116px; position: absolute">
+          <div style="width: 10px; height: 10px; left: 11px; top: 338px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 10px; height: 10px; left: 59px; top: 294px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 10px; height: 10px; left: 49px; top: 235px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 8px; height: 8px; left: 26px; top: 262px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 8px; height: 8px; left: 17px; top: 207px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 6px; height: 6px; left: 34px; top: 308px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 8px; height: 8px; left: 0px; top: 290px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 6px; height: 6px; left: 75px; top: 236px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 6px; height: 6px; left: 72px; top: 200px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 16px; height: 16px; left: 40px; top: 345px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 12px; height: 12px; left: 75px; top: 314px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 12px; height: 12px; left: 77px; top: 270px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 11px; height: 11px; left: 72px; top: 371px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 3px; height: 3px; left: 3px; top: 233px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 3px; height: 3px; left: 27px; top: 180px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 3px; height: 3px; left: 34px; top: 23px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 3px; height: 3px; left: 45px; top: 220px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 3px; height: 3px; left: 78px; top: 167px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 3px; height: 3px; left: 76px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+        </div>
+      </div>
+      <div style="width: 219px; height: 86px; left: 0px; top: 568px; position: absolute">
+        <div style="width: 219px; height: 46px; left: 0px; top: 40px; position: absolute; text-align: center; color: rgba(38, 9, 121, 0.25); font-size: 20px; font-family: Poppins; font-weight: 500; line-height: 22.80px; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur.</div>
+        <div style="width: 215px; height: 25px; left: 4px; top: 0px; position: absolute; text-align: center; color: #636363; font-size: 35px; font-family: Poppins; font-weight: 600; text-transform: uppercase; word-wrap: break-word">INSTAGRAM</div>
+      </div>
+      <div style="width: 25px; height: 428px; left: 2px; top: 98px; position: absolute">
+        <div style="width: 86.99px; height: 25px; left: 0px; top: 314.33px; position: absolute; transform: rotate(-90deg); transform-origin: 0 0; color: #D75495; font-size: 35px; font-family: Source Sans Pro; font-weight: 600; text-transform: uppercase; word-wrap: break-word">90%</div>
+        <div style="width: 209.94px; height: 0px; left: 13px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 2px #E59CC0 solid"></div>
+        <div style="width: 90.47px; height: 0px; left: 13px; top: 337.53px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 2px #E59CC0 solid"></div>
+      </div>
+    </div>
+    <div style="width: 219px; height: 654px; left: 739px; top: 384px; position: absolute">
+      <div style="width: 149px; height: 550px; left: 35px; top: 0px; position: absolute">
+        <div style="width: 149px; height: 44px; left: 0px; top: 506px; position: absolute; background: rgba(38, 127, 208, 0.50); box-shadow: 20px 20px 20px; border-radius: 9999px; filter: blur(20px)"></div>
+        <img style="width: 115px; height: 524px; left: 17px; top: 17px; position: absolute; opacity: 0.65" src="https://via.placeholder.com/115x524" />
+        <div style="width: 115px; height: 34px; left: 17px; top: 0px; position: absolute; background: #267FD0; box-shadow: 0px -3px 4px rgba(0, 0, 0, 0.05) inset; border-radius: 9999px"></div>
+        <img style="width: 115px; height: 342px; left: 17px; top: 199px; position: absolute" src="https://via.placeholder.com/115x342" />
+        <img style="width: 115px; height: 36.64px; left: 17px; top: 183px; position: absolute" src="https://via.placeholder.com/115x37" />
+        <div style="width: 74px; height: 74px; left: 40px; top: 260px; position: absolute; background: white; border-radius: 9999px"></div>
+        <div style="width: 52px; height: 52px; left: 51px; top: 271px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+          <div style="width: 52px; height: 52px; position: relative">
+            <div style="width: 52px; height: 52px; left: 0px; top: 0px; position: absolute; border: 2px #267FD0 solid"></div>
+            <div style="width: 22px; height: 22px; left: 16px; top: 14px; position: absolute; background: #267FD0"></div>
+          </div>
+        </div>
+        <div style="width: 87px; height: 382px; left: 27px; top: 116px; position: absolute">
+          <div style="width: 10px; height: 10px; left: 11px; top: 338px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 10px; height: 10px; left: 58px; top: 290px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 8px; height: 8px; left: 26px; top: 262px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 6px; height: 6px; left: 34px; top: 308px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 8px; height: 8px; left: 0px; top: 290px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 6px; height: 6px; left: 72px; top: 248px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 16px; height: 16px; left: 40px; top: 345px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 12px; height: 12px; left: 75px; top: 314px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 11px; height: 11px; left: 72px; top: 371px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 3px; height: 3px; left: 3px; top: 233px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 3px; height: 3px; left: 34px; top: 23px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 3px; height: 3px; left: 45px; top: 220px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 3px; height: 3px; left: 76px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+        </div>
+      </div>
+      <div style="width: 219px; height: 86px; left: 0px; top: 568px; position: absolute">
+        <div style="width: 219px; height: 46px; left: 0px; top: 40px; position: absolute; text-align: center; color: rgba(38, 9, 121, 0.25); font-size: 20px; font-family: Poppins; font-weight: 500; line-height: 22.80px; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur.</div>
+        <div style="width: 145px; height: 25px; left: 39px; top: 0px; position: absolute; text-align: center; color: #636363; font-size: 35px; font-family: Poppins; font-weight: 600; text-transform: uppercase; word-wrap: break-word">LinkDin</div>
+      </div>
+      <div style="width: 25px; height: 327px; left: 2px; top: 199px; position: absolute">
+        <div style="width: 66.46px; height: 25px; left: 0px; top: 240.15px; position: absolute; transform: rotate(-90deg); transform-origin: 0 0; color: #267FD0; font-size: 35px; font-family: Source Sans Pro; font-weight: 600; text-transform: uppercase; word-wrap: break-word">70%</div>
+        <div style="width: 160.40px; height: 0px; left: 13px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 2px #72ACE1 solid"></div>
+        <div style="width: 67px; height: 0px; left: 13px; top: 260px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 2px #72ACE1 solid"></div>
+      </div>
+    </div>
+    <div style="width: 52px; height: 52px; left: 540px; top: 578px; position: absolute; border: 2px #D75495 solid"></div>
+    <div style="width: 219px; height: 654px; left: 1022px; top: 378px; position: absolute">
+      <div style="width: 149px; height: 550px; left: 35px; top: 0px; position: absolute">
+        <div style="width: 149px; height: 44px; left: 0px; top: 506px; position: absolute; background: rgba(139, 90, 203, 0.50); box-shadow: 20px 20px 20px; border-radius: 9999px; filter: blur(20px)"></div>
+        <img style="width: 115px; height: 524px; left: 17px; top: 17px; position: absolute; opacity: 0.65" src="https://via.placeholder.com/115x524" />
+        <div style="width: 115px; height: 34px; left: 17px; top: 0px; position: absolute; background: #8449D0; box-shadow: 0px -3px 4px rgba(0, 0, 0, 0.05) inset; border-radius: 9999px"></div>
+        <img style="width: 115px; height: 298px; left: 17px; top: 243px; position: absolute" src="https://via.placeholder.com/115x298" />
+        <img style="width: 115px; height: 36.64px; left: 17px; top: 225px; position: absolute" src="https://via.placeholder.com/115x37" />
+        <div style="width: 52px; height: 52px; left: 51px; top: 282px; position: absolute"></div>
+        <div style="width: 74px; height: 74px; left: 38px; top: 285px; position: absolute">
+          <div style="width: 74px; height: 74px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+          <div style="width: 52px; height: 52px; left: 11px; top: 11px; position: absolute; border: 2px #8B5ACB solid"></div>
+          <div style="width: 26px; height: 26px; left: 24px; top: 24px; position: absolute">
+            <div style="width: 15.71px; height: 26.03px; left: 5.15px; top: -0.02px; position: absolute; background: #8B5ACB; border: 0.50px white solid"></div>
+            <div style="width: 13.82px; height: 24.20px; left: 5.87px; top: 1px; position: absolute; background: #8B5ACB"></div>
+          </div>
+        </div>
+        <div style="width: 87px; height: 395px; left: 27px; top: 116px; position: absolute">
+          <div style="width: 10px; height: 10px; left: 11px; top: 351px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 10px; height: 10px; left: 58px; top: 303px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 8px; height: 8px; left: 26px; top: 275px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 6px; height: 6px; left: 34px; top: 321px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 8px; height: 8px; left: 0px; top: 303px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 6px; height: 6px; left: 72px; top: 261px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 16px; height: 16px; left: 40px; top: 357px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 12px; height: 12px; left: 75px; top: 327px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 11px; height: 11px; left: 72px; top: 384px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 3px; height: 3px; left: 3px; top: 246px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 3px; height: 3px; left: 34px; top: 23px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 3px; height: 3px; left: 45px; top: 233px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+          <div style="width: 3px; height: 3px; left: 76px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0.20); border-radius: 9999px"></div>
+        </div>
+      </div>
+      <div style="width: 219px; height: 86px; left: 0px; top: 568px; position: absolute">
+        <div style="width: 219px; height: 46px; left: 0px; top: 40px; position: absolute; text-align: center; color: rgba(38, 9, 121, 0.25); font-size: 20px; font-family: Poppins; font-weight: 500; line-height: 22.80px; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur.</div>
+        <div style="width: 145px; height: 25px; left: 39px; top: 0px; position: absolute; text-align: center; color: #636363; font-size: 35px; font-family: Poppins; font-weight: 600; text-transform: uppercase; word-wrap: break-word">tumblr</div>
+      </div>
+      <div style="width: 25px; height: 327px; left: 2px; top: 199px; position: absolute">
+        <div style="width: 66.46px; height: 25px; left: 0px; top: 240.15px; position: absolute; transform: rotate(-90deg); transform-origin: 0 0; color: #8B5ACB; font-size: 35px; font-family: Source Sans Pro; font-weight: 600; text-transform: uppercase; word-wrap: break-word">50%</div>
+        <div style="width: 160.40px; height: 0px; left: 13px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 2px #B494DD solid"></div>
+        <div style="width: 67px; height: 0px; left: 13px; top: 260px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 2px #B494DD solid"></div>
+      </div>
+    </div>
+    <div style="width: 20px; height: 20px; padding-top: 1.88px; padding-bottom: 1.88px; left: 1402px; top: 650px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <div style="width: 20px; height: 16.25px; background: #03A9F4"></div>
+    </div>
+  </div>
+  <div style="width: 40.42px; height: 40.42px; left: 5380px; top: 2828px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div style="flex: 1 1 0; align-self: stretch; justify-content: center; align-items: center; display: inline-flex">
+      <div style="width: 40.42px; height: 40.42px; opacity: 0.20; border-radius: 9999px; border: 1.06px black solid"></div>
+    </div>
+  </div>
+  <div style="width: 1980px; height: 1080px; left: 3834px; top: 186px; position: absolute; background: white">
+    <div style="width: 36.96px; height: 30.24px; left: 1460.98px; top: 176.54px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">01</div>
+    <div style="width: 58.08px; height: 23.76px; left: 1464.04px; top: 153.77px; position: absolute; color: white; font-size: 9px; font-family: Roboto; font-weight: 400; word-wrap: break-word">STEP</div>
+    <div style="width: 0px; height: 31.25px; left: 2343.25px; top: 439.79px; position: absolute; transform: rotate(-18.08deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word"> </div>
+    <div style="width: 0px; height: 36.34px; left: 2130.72px; top: 350.33px; position: absolute; transform: rotate(68.26deg); transform-origin: 0 0; color: white; font-size: 11.99px; font-family: Roboto; font-weight: 400; word-wrap: break-word"> </div>
+    <div style="width: 0px; height: 31.19px; left: 2212.78px; top: 146.85px; position: absolute; transform: rotate(-17.50deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word"> </div>
+    <div style="width: 0px; height: 36.59px; left: 2480.12px; top: 248.36px; position: absolute; transform: rotate(72.71deg); transform-origin: 0 0; color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word"> </div>
+    <div style="width: 713px; height: 237px; left: 90px; top: 90px; position: absolute">
+      <div style="width: 713px; height: 237px; left: 0px; top: 0px; position: absolute">
+        <div style="width: 387px; height: 36px; left: 0px; top: 0px; position: absolute; color: #260979; font-size: 50px; font-family: Poppins; font-weight: 600; letter-spacing: 2.50px; word-wrap: break-word">Graph Data</div>
+        <div style="width: 355px; height: 33px; left: 0px; top: 56px; position: absolute; color: #260979; font-size: 50px; font-family: Poppins; font-weight: 600; letter-spacing: 2.50px; word-wrap: break-word">Presentation</div>
+        <div style="width: 713px; height: 84px; left: 0px; top: 153px; position: absolute; color: rgba(38, 9, 121, 0.25); font-size: 20px; font-family: Poppins; font-weight: 500; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mattis nulla lacus, ornare lectus. Ornare adipiscing habitant vulputate id elementum dictum porttitor quis. Feugiat mattis.</div>
+      </div>
+      <div style="width: 353px; height: 7px; left: 2px; top: 110px; position: absolute; background: linear-gradient(90deg, #FC5C7D 0%, #5C6EEA 100%); border-radius: 20px"></div>
+    </div>
+    <div style="width: 24px; height: 24px; left: 700px; top: 882px; position: absolute; background: #6F81F7; border-radius: 9999px; border: 1px #6F81F7 solid"></div>
+    <div style="width: 22px; height: 22px; left: 649px; top: 526px; position: absolute; background: #9C75D0; border-radius: 9999px"></div>
+    <div style="width: 22px; height: 22px; left: 1218px; top: 463px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: #D7669E; border-radius: 9999px; border: 1px #D7669E solid"></div>
+    <div style="width: 22px; height: 22px; left: 1218px; top: 836px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: #FC5C7D; border-radius: 9999px; border: 1px #FC5C7D solid"></div>
+    <div style="width: 374px; height: 0px; left: 704px; top: 892.21px; position: absolute; transform: rotate(-180deg); transform-origin: 0 0; background: #6F81F7; border: 4px #6F81F7 solid"></div>
+    <div style="width: 264px; height: 0px; left: 653px; top: 537px; position: absolute; transform: rotate(-180deg); transform-origin: 0 0; border: 4px #9C75D0 solid"></div>
+    <div style="width: 374px; height: 0px; left: 1214px; top: 454px; position: absolute; background: #D7669E; border: 4px #D7669E solid"></div>
+    <div style="width: 230.50px; height: 0px; left: 1214px; top: 825px; position: absolute; background: #FC5C7D; border: 4px #FC5C7D solid"></div>
+    <div style="width: 541px; height: 541px; left: 675px; top: 388px; position: absolute; background: #6F81F7"></div>
+    <div style="width: 539.47px; height: 537.45px; left: 676.35px; top: 387.56px; position: absolute; background: #9C75D0"></div>
+    <div style="width: 443.16px; height: 443.16px; left: 933.12px; top: 970.39px; position: absolute; transform: rotate(-132.63deg); transform-origin: 0 0; background: #D75495; border-radius: 9999px"></div>
+    <div style="width: 28px; height: 28px; left: 1060px; top: 713.32px; position: absolute; transform: rotate(-64.74deg); transform-origin: 0 0">
+      <div style="width: 2.81px; height: 2.24px; left: 11.64px; top: 18.74px; position: absolute; background: white"></div>
+      <div style="width: 12.08px; height: 12.07px; left: -0px; top: 10.09px; position: absolute; background: white"></div>
+      <div style="width: 1.24px; height: 2.19px; left: 13.15px; top: 15.41px; position: absolute; background: white"></div>
+      <div style="width: 12.45px; height: 3.32px; left: 8.58px; top: 7.57px; position: absolute; background: white"></div>
+      <div style="width: 12.44px; height: 2.96px; left: 8.52px; top: 4.57px; position: absolute; background: white"></div>
+      <div style="width: 12.34px; height: 3.31px; left: 15.65px; top: 20.11px; position: absolute; background: white"></div>
+      <div style="width: 9.08px; height: 3.30px; left: 11.94px; top: 10.95px; position: absolute; background: white"></div>
+      <div style="width: 12.40px; height: 3.28px; left: 15.60px; top: 16.76px; position: absolute; background: white"></div>
+      <div style="width: 12.44px; height: 2.94px; left: 15.55px; top: 13.76px; position: absolute; background: white"></div>
+    </div>
+    <div style="width: 336px; height: 336px; left: 778.18px; top: 489.39px; position: absolute; background: #FC5C7D; border-radius: 9999px"></div>
+    <div style="width: 218px; height: 218px; left: 837.18px; top: 548.39px; position: absolute; background: white; border-radius: 9999px"></div>
+    <div style="width: 62px; height: 62px; left: 915px; top: 608.21px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <div style="width: 62px; height: 62px; position: relative">
+        <div style="width: 18.16px; height: 14.53px; left: 0px; top: 47.47px; position: absolute; background: #777777"></div>
+        <div style="width: 18.16px; height: 14.53px; left: 21.92px; top: 47.47px; position: absolute; background: #777777"></div>
+        <div style="width: 18.16px; height: 14.53px; left: 43.84px; top: 47.47px; position: absolute; background: #777777"></div>
+        <div style="width: 47.47px; height: 43.84px; left: 7.27px; top: -0px; position: absolute; background: #777777"></div>
+      </div>
+    </div>
+    <div style="left: 887px; top: 680.21px; position: absolute; color: #777777; font-size: 18px; font-family: Poppins; font-weight: 600; letter-spacing: 0.90px; word-wrap: break-word">YOUR TITTLE</div>
+    <div style="left: 389px; top: 548px; position: absolute; color: #777777; font-size: 18px; font-family: Poppins; font-weight: 600; letter-spacing: 0.90px; word-wrap: break-word">TABLE 1</div>
+    <div style="width: 220px; height: 50px; left: 389px; top: 581px; position: absolute; color: rgba(38, 9, 121, 0.25); font-size: 20px; font-family: Poppins; font-weight: 500; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur.</div>
+    <div style="width: 220px; height: 50px; left: 330px; top: 936px; position: absolute; color: rgba(38, 9, 121, 0.25); font-size: 20px; font-family: Poppins; font-weight: 500; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur.</div>
+    <div style="width: 220px; height: 50px; left: 1368px; top: 498px; position: absolute; text-align: right; color: rgba(38, 9, 121, 0.25); font-size: 20px; font-family: Poppins; font-weight: 500; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur.</div>
+    <div style="width: 220px; height: 50px; left: 1225px; top: 869px; position: absolute; text-align: right; color: rgba(38, 9, 121, 0.25); font-size: 20px; font-family: Poppins; font-weight: 500; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur.</div>
+    <div style="left: 330px; top: 903px; position: absolute; color: #777777; font-size: 18px; font-family: Poppins; font-weight: 600; letter-spacing: 0.90px; word-wrap: break-word">TABLE 2</div>
+    <div style="left: 1372px; top: 836px; position: absolute; color: #777777; font-size: 18px; font-family: Poppins; font-weight: 600; letter-spacing: 0.90px; word-wrap: break-word">TABLE 4</div>
+    <div style="left: 1514px; top: 465px; position: absolute; color: #777777; font-size: 18px; font-family: Poppins; font-weight: 600; letter-spacing: 0.90px; word-wrap: break-word">TABLE 3</div>
+    <div style="width: 16px; height: 16px; left: 758px; top: 820px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <div style="width: 16px; height: 16px; background: white"></div>
+    </div>
+    <div style="width: 19.69px; height: 19.69px; left: 886.71px; top: 462.19px; position: absolute; transform: rotate(-16.14deg); transform-origin: 0 0; justify-content: center; align-items: center; display: inline-flex">
+      <div style="width: 19.69px; height: 19.69px; position: relative">
+        <div style="width: 16.50px; height: 18.79px; left: 0px; top: 0px; position: absolute">
+          <div style="width: 16.50px; height: 7.34px; left: 0px; top: 0px; position: absolute; background: white"></div>
+          <div style="width: 10.16px; height: 6.48px; left: -0px; top: 12.31px; position: absolute; background: white"></div>
+          <div style="width: 10.17px; height: 6.48px; left: 0px; top: 8.49px; position: absolute; background: white"></div>
+          <div style="width: 16.50px; height: 6.48px; left: 0px; top: 4.68px; position: absolute; background: white"></div>
+        </div>
+        <div style="width: 9.15px; height: 9.15px; left: 10.54px; top: 10.54px; position: absolute; background: white"></div>
+      </div>
+    </div>
+    <div style="width: 20.69px; height: 20.69px; padding-left: 1.72px; padding-right: 1.72px; left: 806.06px; top: 610.46px; position: absolute; transform: rotate(-62.73deg); transform-origin: 0 0; justify-content: center; align-items: center; display: inline-flex">
+      <div style="width: 17.24px; height: 20.69px; background: white"></div>
+    </div>
+    <div style="height: 16.18px; left: 784.99px; top: 832px; position: absolute; transform: rotate(33.73deg); transform-origin: 0 0">
+      <div style="width: 5.37px; height: 13.43px; left: 2.04px; top: 1.36px; position: absolute; transform: rotate(44.28deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">S</div>
+      <div style="width: 4.70px; height: 13.43px; left: 7.96px; top: 7.01px; position: absolute; transform: rotate(40.90deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">E</div>
+      <div style="width: 5.37px; height: 13.43px; left: 13.68px; top: 11.87px; position: absolute; transform: rotate(37.52deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">T</div>
+      <div style="width: 5.37px; height: 13.43px; left: 20.20px; top: 16.77px; position: absolute; transform: rotate(34.01deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">T</div>
+      <div style="width: 2.69px; height: 13.43px; left: 27.10px; top: 21.28px; position: absolute; transform: rotate(31.03deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">I</div>
+      <div style="width: 6.72px; height: 13.43px; left: 31.84px; top: 24.11px; position: absolute; transform: rotate(27.79deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">N</div>
+      <div style="width: 7.39px; height: 13.43px; left: 40.18px; top: 28.41px; position: absolute; transform: rotate(23.60deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">G</div>
+    </div>
+    <div style="width: 61.42px; height: 18.70px; left: 819px; top: 579px; position: absolute; transform: rotate(-47.11deg); transform-origin: 0 0">
+      <div style="width: 6.66px; height: 14.80px; left: 3.19px; top: 2.96px; position: absolute; transform: rotate(-61.46deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">R</div>
+      <div style="width: 5.18px; height: 14.80px; left: 8.84px; top: -6.88px; position: absolute; transform: rotate(-55.97deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">E</div>
+      <div style="width: 5.92px; height: 14.80px; left: 14.51px; top: -14.92px; position: absolute; transform: rotate(-50.69deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">P</div>
+      <div style="width: 8.14px; height: 14.80px; left: 21.46px; top: -23.09px; position: absolute; transform: rotate(-44.57deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">O</div>
+      <div style="width: 6.66px; height: 14.80px; left: 30.92px; top: -31.98px; position: absolute; transform: rotate(-38.24deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">R</div>
+      <div style="width: 5.92px; height: 14.80px; left: 40.02px; top: -38.83px; position: absolute; transform: rotate(-32.54deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">T</div>
+    </div>
+    <div style="width: 128.18px; height: 30.50px; left: 820.66px; top: 436.63px; position: absolute; transform: rotate(-15.08deg); transform-origin: 0 0">
+      <div style="width: 7.67px; height: 23.58px; left: 1.82px; top: 6.75px; position: absolute; transform: rotate(-26.74deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">D</div>
+      <div style="width: 7.64px; height: 23.62px; left: 12.36px; top: 1.53px; position: absolute; transform: rotate(-24.53deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">A</div>
+      <div style="width: 6.09px; height: 23.66px; left: 23.05px; top: -3.25px; position: absolute; transform: rotate(-22.44deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">T</div>
+      <div style="width: 7.60px; height: 23.68px; left: 32.45px; top: -7.07px; position: absolute; transform: rotate(-20.35deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">A</div>
+      <div style="width: 3.03px; height: 23.69px; left: 43.36px; top: -11.01px; position: absolute; transform: rotate(-18.55deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word"> </div>
+      <div style="width: 7.58px; height: 23.70px; left: 50.04px; top: -13.22px; position: absolute; transform: rotate(-16.74deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">A</div>
+      <div style="width: 7.58px; height: 23.70px; left: 61.21px; top: -16.50px; position: absolute; transform: rotate(-14.46deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">N</div>
+      <div style="width: 7.58px; height: 23.70px; left: 72.49px; top: -19.33px; position: absolute; transform: rotate(-12.22deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">A</div>
+      <div style="width: 4.56px; height: 23.68px; left: 83.86px; top: -21.69px; position: absolute; transform: rotate(-10.27deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">L</div>
+      <div style="width: 6.09px; height: 23.66px; left: 92.30px; top: -23.17px; position: absolute; transform: rotate(-8.47deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">Y</div>
+      <div style="width: 6.10px; height: 23.64px; left: 102.33px; top: -24.59px; position: absolute; transform: rotate(-6.53deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">S</div>
+      <div style="width: 3.06px; height: 23.61px; left: 112.39px; top: -25.67px; position: absolute; transform: rotate(-4.90deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">I</div>
+      <div style="width: 6.14px; height: 23.58px; left: 119.45px; top: -26.24px; position: absolute; transform: rotate(-3.28deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">S</div>
+    </div>
+    <div style="width: 108.28px; height: 31.53px; left: 1090px; top: 765.77px; position: absolute; transform: rotate(-68.53deg); transform-origin: 0 0">
+      <div style="width: 3.07px; height: 23.74px; left: 0.97px; top: -2.46px; position: absolute; transform: rotate(-52.56deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">I</div>
+      <div style="width: 7.63px; height: 23.81px; left: 4.95px; top: -7.71px; position: absolute; transform: rotate(-55.25deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">N</div>
+      <div style="width: 8.33px; height: 23.88px; left: 11.15px; top: -16.80px; position: absolute; transform: rotate(-58.78deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">C</div>
+      <div style="width: 8.28px; height: 23.94px; left: 17.10px; top: -26.84px; position: absolute; transform: rotate(-62.47deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">O</div>
+      <div style="width: 9.01px; height: 23.96px; left: 22.37px; top: -37.17px; position: absolute; transform: rotate(-66.31deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">M</div>
+      <div style="width: 5.25px; height: 23.97px; left: 27.20px; top: -48.55px; position: absolute; transform: rotate(-69.70deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">E</div>
+      <div style="width: 3.01px; height: 23.96px; left: 30.14px; top: -56.77px; position: absolute; transform: rotate(-72.15deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word"> </div>
+      <div style="width: 6.02px; height: 23.93px; left: 32.08px; top: -62.94px; position: absolute; transform: rotate(-74.70deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">T</div>
+      <div style="width: 7.57px; height: 23.89px; left: 34.49px; top: -72.05px; position: absolute; transform: rotate(-77.93deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">A</div>
+      <div style="width: 6.86px; height: 23.82px; left: 36.68px; top: -82.79px; position: absolute; transform: rotate(-81.24deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">X</div>
+      <div style="width: 5.37px; height: 23.75px; left: 38.14px; top: -93.01px; position: absolute; transform: rotate(-84.17deg); transform-origin: 0 0; color: white; font-size: 13px; font-family: Poppins; font-weight: 500; word-wrap: break-word">E</div>
+    </div>
+  </div>
+  <div style="width: 1152px; height: 1199px; left: 210px; top: 186px; position: absolute; background: white">
+    <div style="width: 976px; left: 48px; top: 914.99px; position: absolute">
+      <div style="width: 659px; height: 167px; left: 317px; top: 0px; position: absolute; justify-content: center; align-items: flex-start; gap: 39px; display: inline-flex">
+        <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+          <div style="width: 100px; height: 100px; background: #333333; box-shadow: 0px 4px 24px rgba(0, 0, 0, 0.32); border-radius: 10px"></div>
+          <div style="height: 50px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="text-align: center; color: #092C4C; font-size: 16px; font-family: Inter; font-weight: 700; line-height: 22.40px; word-wrap: break-word">Gray 1</div>
+            <div style="text-align: center; color: #828282; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">#333333</div>
+          </div>
+        </div>
+        <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div style="width: 100px; height: 100px; background: #5B5B5B; box-shadow: 0px 4px 24px rgba(0, 0, 0, 0.32); border-radius: 10px"></div>
+          <div style="height: 50px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="color: #092C4C; font-size: 16px; font-family: Inter; font-weight: 700; line-height: 22.40px; word-wrap: break-word">Gray 2</div>
+            <div style="color: #828282; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">#5B5B5B</div>
+          </div>
+        </div>
+        <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div style="width: 101px; height: 101px; background: #828282; box-shadow: 0px 4px 24px rgba(0, 0, 0, 0.32); border-radius: 10px"></div>
+          <div style="height: 50px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="color: #092C4C; font-size: 16px; font-family: Inter; font-weight: 700; line-height: 22.40px; word-wrap: break-word">Gray 3</div>
+            <div style="color: #828282; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">#828282</div>
+          </div>
+        </div>
+        <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div style="width: 101px; height: 100px; background: #C4C4C4; box-shadow: 0px 4px 24px rgba(0, 0, 0, 0.32); border-radius: 10px"></div>
+          <div style="height: 50px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="color: #092C4C; font-size: 16px; font-family: Inter; font-weight: 700; line-height: 22.40px; word-wrap: break-word">Gray 4</div>
+            <div style="color: #828282; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">#C4C4C4</div>
+          </div>
+        </div>
+        <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div style="width: 101px; height: 100px; background: #E0E0E0; box-shadow: 0px 4px 24px rgba(0, 0, 0, 0.32); border-radius: 10px"></div>
+          <div style="height: 50px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="color: #092C4C; font-size: 16px; font-family: Inter; font-weight: 700; line-height: 22.40px; word-wrap: break-word">Gray 5</div>
+            <div style="color: #828282; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">#E0E0E0</div>
+          </div>
+        </div>
+      </div>
+      <div style="left: 0px; top: 0px; position: absolute; color: #828282; font-size: 32px; font-family: Inter; font-weight: 500; line-height: 35.20px; word-wrap: break-word">Grey Colors</div>
+    </div>
+    <div style="width: 974px; left: 48px; top: 693.99px; position: absolute">
+      <div style="width: 657px; height: 167px; left: 317px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="width: 101px; height: 100px; background: #5C6EEA; box-shadow: 0px 0px 24px rgba(0, 0, 0, 0.24); border-radius: 10px"></div>
+        <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div style="width: 101px; height: 101px; background: #8B5ACB; border-radius: 10px"></div>
+          <div style="height: 50px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="color: #092C4C; font-size: 16px; font-family: Inter; font-weight: 700; line-height: 22.40px; word-wrap: break-word">Purple Dark</div>
+            <div style="color: #828282; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">#4A4A4A</div>
+          </div>
+        </div>
+        <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div style="width: 100px; height: 100px; background: #D75495; border-radius: 10px"></div>
+          <div style="height: 50px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="color: #092C4C; font-size: 16px; font-family: Inter; font-weight: 700; line-height: 22.40px; word-wrap: break-word">Pink Dark 2</div>
+            <div style="color: #828282; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">#1D1D1D</div>
+          </div>
+        </div>
+        <div style="flex-direction: column; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+          <div style="width: 100px; height: 100px; background: #EA4B6C; border-radius: 10px"></div>
+          <div style="height: 50px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="text-align: center; color: black; font-size: 16px; font-family: Inter; font-weight: 700; line-height: 22.40px; word-wrap: break-word">Pink 1</div>
+            <div style="color: #828282; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">#000000</div>
+          </div>
+        </div>
+        <div style="height: 50px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 4px; display: inline-flex">
+          <div style="color: #092C4C; font-size: 16px; font-family: Inter; font-weight: 700; line-height: 22.40px; word-wrap: break-word">Blue Dark</div>
+          <div style="color: #828282; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">#FFFFFF</div>
+        </div>
+      </div>
+      <div style="left: 0px; top: 0px; position: absolute; color: #828282; font-size: 32px; font-family: Inter; font-weight: 500; line-height: 35.20px; word-wrap: break-word">Black Colors</div>
+    </div>
+    <div style="width: 974px; left: 48px; top: 492px; position: absolute">
+      <div style="width: 657px; height: 167px; left: 317px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="width: 101px; height: 100px; background: #6F81F7; box-shadow: 0px 0px 24px rgba(0, 0, 0, 0.24); border-radius: 10px"></div>
+        <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div style="width: 101px; height: 101px; background: #9C75D0; border-radius: 10px"></div>
+          <div style="height: 50px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="color: #092C4C; font-size: 16px; font-family: Inter; font-weight: 700; line-height: 22.40px; word-wrap: break-word">Purple</div>
+            <div style="color: #828282; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">#C2C2C2</div>
+          </div>
+        </div>
+        <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div style="width: 100px; height: 100px; background: #D7669E; border-radius: 10px"></div>
+          <div style="height: 50px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="color: #092C4C; font-size: 16px; font-family: Inter; font-weight: 700; line-height: 22.40px; word-wrap: break-word">Pink Dark</div>
+            <div style="color: #828282; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">#757575</div>
+          </div>
+        </div>
+        <div style="flex-direction: column; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+          <div style="width: 100px; height: 100px; background: #FC5C7D; border-radius: 10px"></div>
+          <div style="height: 50px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="text-align: center; color: black; font-size: 16px; font-family: Inter; font-weight: 700; line-height: 22.40px; word-wrap: break-word">Pink</div>
+            <div style="color: #828282; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">#464646</div>
+          </div>
+        </div>
+        <div style="height: 50px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 4px; display: inline-flex">
+          <div style="color: #092C4C; font-size: 16px; font-family: Inter; font-weight: 700; line-height: 22.40px; word-wrap: break-word">Blue</div>
+          <div style="color: #828282; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">#F4F4F4</div>
+        </div>
+      </div>
+      <div style="left: 0px; top: 0px; position: absolute; color: #828282; font-size: 32px; font-family: Inter; font-weight: 500; line-height: 35.20px; word-wrap: break-word">Color Scheme</div>
+    </div>
+    <div style="width: 586px; height: 314px; left: 48px; top: 142px; position: absolute">
+      <div style="width: 62px; height: 23px; left: 421px; top: 291px; position: absolute; justify-content: flex-start; align-items: center; gap: 4px; display: inline-flex">
+        <div style="color: #092C4C; font-size: 16px; font-family: Inter; font-weight: 700; line-height: 22.40px; word-wrap: break-word">Primary</div>
+      </div>
+      <div style="width: 268px; height: 271px; left: 318px; top: 0px; position: absolute; background: linear-gradient(121deg, #267FD0 0%, #0827CC 100%); border-radius: 10px"></div>
+      <div style="width: 199px; height: 36px; left: 0px; top: 0px; position: absolute; color: #828282; font-size: 32px; font-family: Inter; font-weight: 500; line-height: 35.20px; word-wrap: break-word">Brand Colors</div>
+    </div>
+    <div style="left: 48px; top: 48px; position: absolute"><span style="color: #4F4F4F; font-size: 56px; font-family: Inter; font-weight: 400; line-height: 61.60px; word-wrap: break-word">01. </span><span style="color: #2D2D2D; font-size: 56px; font-family: Inter; font-weight: 600; line-height: 61.60px; word-wrap: break-word">Colors</span></div>
+  </div>
+</div>
+<div style="width: 6300px; height: 2790px; background: #404040">
+  <div style="width: 1920px; height: 1080px; left: 2175px; top: 244.72px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <img style="width: 1920px; height: 1080px" src="https://via.placeholder.com/1920x1080" />
+  </div>
+  <img style="width: 1920px; height: 1080px; left: 4254px; top: 244.72px; position: absolute" src="https://via.placeholder.com/1920x1080" />
+  <div style="width: 1920px; height: 1080px; left: 4254px; top: 244.72px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <img style="width: 1920px; height: 1080px" src="https://via.placeholder.com/1920x1080" />
+  </div>
+  <div style="width: 1920px; height: 1080px; left: 125px; top: 1538.95px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <img style="width: 1920px; height: 1080px" src="https://via.placeholder.com/1920x1080" />
+  </div>
+  <div style="width: 1920px; height: 1080px; left: 2175px; top: 1538.95px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <img style="width: 1920px; height: 1080px" src="https://via.placeholder.com/1920x1080" />
+  </div>
+  <div style="width: 1921px; height: 1080px; left: 4253px; top: 1538.95px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <img style="width: 1921px; height: 1080px" src="https://via.placeholder.com/1921x1080" />
+  </div>
+  <div style="width: 1920px; height: 1080px; left: 125px; top: 244.72px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <img style="width: 1920px; height: 1080px" src="https://via.placeholder.com/1920x1080" />
+  </div>
+</div>
